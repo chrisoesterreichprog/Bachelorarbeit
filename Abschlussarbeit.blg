@@ -1,48 +1,71 @@
 This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Abschlussarbeit.aux
-I found no \citation commands---while reading file Abschlussarbeit.aux
-I found no \bibdata command---while reading file Abschlussarbeit.aux
-I found no \bibstyle command---while reading file Abschlussarbeit.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 504 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
+A level-1 auxiliary file: ./misc/titlepage.aux
+A level-1 auxiliary file: ./misc/self-assertion.aux
+A level-1 auxiliary file: ./misc/abstract.aux
+A level-1 auxiliary file: ./misc/abstract_de.aux
+The style file: geralpha.bst
+Database file #1: ./bib/manual.bib
+Warning--to sort, need author or key in ChatGPT
+Warning--to sort, need author or key in NumberChatGPTUsers2023
+Warning--to sort, need author or key in WasIstKuenstliche
+Warning--to sort, need author or key in DPMAPatentschutz
+Warning--to sort, need author or key in PatGNichtamtlichesInhaltsverzeichnis
+Warning--to sort, need author or key in BGH27031969
+Warning--to sort, need author or key in BGH3020152015
+Warning--to sort, need author or key in BGH2420112011
+Warning--to sort, need author or key in WasIstKuenstliche2021
+Warning--to sort, need author or key in WhatAIBasica
+Warning--to sort, need author or key in WasIstKuenstliche2020
+Warning--to sort, need author or key in WasIstStarke2023
+Warning--to sort, need author or key in WasIstGenerative
+Warning--to sort, need author or key in WasIstDeep2023
+Warning--to sort, need author or key in KuenstlicheIntelligenz
+Warning--to sort, need author or key in WasSindKonvolutionale2021
+Warning--to sort, need author or key in WasSindRekurrente2023
+Warning--to sort, need author or key in KuenstlicheIntelligenzKI
+Warning--to sort, need author or key in WasIstProgramm
+Warning--to sort, need author or key in ComputerProgrammeUnverzichtbareComputerprogramme
+You've used 26 entries,
+            2768 wiz_defined-function locations,
+            737 strings with 9521 characters,
+and the built_in function-call counts, 6282 in all, are:
+= -- 631
+> -- 68
+< -- 6
++ -- 19
+- -- 12
+* -- 366
+:= -- 749
+add.period$ -- 47
+call.type$ -- 26
+change.case$ -- 84
+chr.to.int$ -- 19
+cite$ -- 66
+duplicate$ -- 300
+empty$ -- 743
+format.name$ -- 24
+if$ -- 1504
+int.to.chr$ -- 8
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+missing$ -- 2
+newline$ -- 102
+num.names$ -- 18
+pop$ -- 241
+preamble$ -- 1
+purify$ -- 136
 quote$ -- 0
-skip$ -- 0
+skip$ -- 326
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
+substring$ -- 202
+swap$ -- 57
+text.length$ -- 6
+text.prefix$ -- 6
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+type$ -- 208
+warning$ -- 20
+while$ -- 12
+width$ -- 29
+write$ -- 244
+(There were 20 warnings)
