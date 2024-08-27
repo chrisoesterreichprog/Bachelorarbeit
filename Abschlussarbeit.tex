@@ -14,6 +14,11 @@
 \usepackage{subfig}						% two figures next to each other (example: figure 3a), figure 3b)
 \usepackage{scrlayer-scrpage}					% header and footer line
 \usepackage{todonotes}
+\usepackage{scrhack}
+% Use biblatex for footnote citations
+\usepackage[backend=biber, style=numeric, citestyle=numeric-comp, sorting=none]{biblatex}
+\addbibresource{./bib/manual.bib}
+
 % header and footer line - no header & footer line on pages where a new chapter starts
 \pagestyle{scrheadings}
 \ohead{Die Patentierbarkeit von durch künstliche Intelligenz geschaffener Computerprogramme}
@@ -24,6 +29,8 @@
 \graphicspath{{./img/}}
 
 \input{./misc/hyphenation} 					% use this file to set explicit hyphenations (doesn't seem to work correctly)
+\hbadness=99999
+\hfuzz=9999pt
 
 \begin{document}
 % ---------------------------------------------------------------
@@ -32,21 +39,26 @@
     \thispagestyle{empty}
     \cleardoublepage
     
-    
     \include{./misc/self-assertion} 
     \thispagestyle{empty}
     \cleardoublepage
     
-    
     \include{./misc/abstract}
     \include{./misc/abstract_de}
 
+    % Add table of contents
+    \tableofcontents
+    \cleardoublepage
+    
     \renewcommand{\listfigurename}{Abbildungsverzeichnis}
     \renewcommand{\listtablename}{Tabellenverzeichnis}
     \renewcommand{\labelenumi}{\Roman{enumi}.}
     
+    % Use a single \clearpage instead of \cleardoublepage to prevent unwanted blank pages
     \listoffigures
+    \cleardoublepage
     \listoftables
+    \cleardoublepage
     
 % --------------------------------------------------------------
 
@@ -55,7 +67,6 @@
     \input{./chapters/chapter1}
     \input{./chapters/chapter2}
     \input{./chapters/chapter3}
-    \input{./chapters/chapter4}
     \input{./chapters/chapter5}
     \input{./chapters/chapter6}
     \input{./chapters/chapter7}
@@ -63,9 +74,13 @@
 % ---------------------------------------------------------------
 \backmatter % no page numbering from here
     \input{./misc/acronyms}
-    \bibliographystyle{geralpha}
-    \bibliography{./bib/manual}
+    % Comment out the traditional bibliography environment
+    % \bibliographystyle{geralpha}
+    % \bibliography{./bib/manual}
     
+    % Use printbibliography if you want a bibliography section at the end
+    \printbibliography
+
     % \input{./misc/annex}
 
 \end{document}

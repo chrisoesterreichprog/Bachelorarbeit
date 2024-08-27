@@ -1,124 +1,1005 @@
-\begin{thebibliography}{Was23b}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[BGH69]{BGH27031969}
-{\em {{BGH}}, 27.03.1969 - {{X ZB}} 15/67 - {{BGH}} 27.03.1969 {{X ZB}} 15/67
-  "{{Rote Taube}}" Zur {{Fussnote}}}, \btxmonmarlong{} 1969.
 
-\bibitem[BGH11]{BGH2420112011}
-{\em {{BGH}}, 24. 2. 2011 - {{X ZR}} 121/09 - {{Erfindungen}} Mit {{Bezug}} Zu
-  {{Ger{\"a}ten}} Und {{Computerprogrammen}}}, \btxmonfeblong{} 2011.
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ChatGPT}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A conversational AI system that listens, learns, and challenges}
+      \field{howpublished}{https://chatgpt.com}
+      \field{langid}{american}
+      \field{title}{{{ChatGPT}}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/9D639PZR/chatgpt.com.html
+      \endverb
+      \keyw{1 Einleitung}
+    \endentry
+    \entry{NumberChatGPTUsers2023}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Statistics and growth data related to the number of ChatGPT users.}
+      \field{howpublished}{https://explodingtopics.com/blog/chatgpt-users}
+      \field{journaltitle}{Exploding Topics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{Number of {{ChatGPT Users}} ({{Jun}} 2024)}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/JMSNBXHH/chatgpt-users.html
+      \endverb
+      \keyw{1 Einleitung}
+    \endentry
+    \entry{WasIstKuenstliche}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Erfahren Sie, wie künstliche Intelligenz und KI-Technologien die Geschäftsprozesse verändern und Unternehmen widerstands- und wettbewerbsfähiger machen.}
+      \field{howpublished}{https://www.sap.com/germany/products/artificial-intelligence/what-is-artificial-intelligence.html}
+      \field{journaltitle}{SAP}
+      \field{langid}{german}
+      \field{shorttitle}{{Was ist künstliche Intelligenz?}}
+      \field{title}{{Was ist künstliche Intelligenz? {|} KI im Unternehmen und KI für Unternehmen {|} SAP Insights}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/FE5BBAPI/what-is-artificial-intelligence.html
+      \endverb
+    \endentry
+    \entry{DPMAPatentschutz}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Patentschutz - Schutz für Ihre technischen Erfindungen - Patente erleichtern unternehmerische Entscheidungen - Bedeutung für Technologie-Transfer - Erfindung ist 20 Jahre geschützt - Grenzüberschreitender Schutz möglich - Erfindungen lizenzieren - Gebrauchsmuster - die schnelle Alternative zum Patent - Den Stand der Technik überblicken - Weitere Informationen}
+      \field{howpublished}{https://www.dpma.de/patente/patentschutz/index.html}
+      \field{journaltitle}{Deutsches Patent- und Markenamt}
+      \field{langid}{ngerman}
+      \field{title}{{DPMA {|} Patentschutz}}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/9Q3TUPJJ/index.html
+      \endverb
+      \keyw{1 Einleitung,2.1 Patentgesetz Def}
+    \endentry
+    \entry{WasIstKuenstliche2021}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Künstliche Intelligenz (KI) ist eine Technologie, die es Computern und digitalen Geräten ermöglicht, zu lernen, zu lesen, zu schreiben, zu kreieren und zu analysieren.}
+      \field{howpublished}{https://www.ibm.com/de-de/topics/artificial-intelligence}
+      \field{langid}{ngerman}
+      \field{month}{10}
+      \field{shorttitle}{{Was ist künstliche Intelligenz (KI)?}}
+      \field{title}{{Was ist künstliche Intelligenz (KI)? {|} IBM}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WhatAIBasica}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html}
+      \field{title}{What Is {{AI}}? / {{Basic Questions}}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/DUFW9VPV/index.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasIstKuenstliche2020}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Künstliche Intelligenz (KI) gilt als ,,zukunftsweisende Technologie``. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
+      \field{howpublished}{https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt}
+      \field{journaltitle}{Themen {|} Europäisches Parlament}
+      \field{langid}{ngerman}
+      \field{month}{9}
+      \field{title}{{Was ist künstliche Intelligenz und wie wird sie genutzt?}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/7A5PYLIY/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{stadlerKuenstlicheIntelligenz}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4aee997b78b1bdbd637734fc425ed029}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={Max-Ludwig},
+           giveni={M\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4aee997b78b1bdbd637734fc425ed029}
+      \strng{fullhash}{4aee997b78b1bdbd637734fc425ed029}
+      \strng{bibnamehash}{4aee997b78b1bdbd637734fc425ed029}
+      \strng{authorbibnamehash}{4aee997b78b1bdbd637734fc425ed029}
+      \strng{authornamehash}{4aee997b78b1bdbd637734fc425ed029}
+      \strng{authorfullhash}{4aee997b78b1bdbd637734fc425ed029}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Künstliche Intelligenz ist mehr als ein gehyptes Buzzword. KI bestimmt den Alltag und hält Einzug in Unternehmen. Praxisbeispiele, Use Cases \& mehr.}
+      \field{journaltitle}{mindsquare}
+      \field{langid}{ngerman}
+      \field{title}{{Künstliche Intelligenz}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/J6B425L2/kuenstliche-intelligenz.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasIstStarke2023}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Erfahren Sie mehr über die starke KI, eine theoretische Form der KI, die menschliche Eigenschaften und Fähigkeiten wie Vernunft, Planung und Problemlösung repliziert.}
+      \field{howpublished}{https://www.ibm.com/de-de/topics/strong-ai}
+      \field{langid}{ngerman}
+      \field{month}{5}
+      \field{shorttitle}{{Was ist starke KI?}}
+      \field{title}{{Was ist starke KI? {|} IBM}}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasIstGenerative}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Generative KI (generative AI) ist eine Form der künstlichen Intelligenz, die, gestützt auf Deep Learning-Modellen, Texte, Bilder und andere neue Inhalte erstellen kann.}
+      \field{howpublished}{https://www.redhat.com/de/topics/ai/what-is-generative-ai}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Was ist generative KI?}}
+      \field{title}{{Was ist generative KI? Grundlagen und Anwendung {|} Red Hat}}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/NFGSSBKR/what-is-generative-ai.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasIstDeep2023}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Deep Learning simuliert unser Gehirn und hilft Systemen zu lernen, Objekte aufzudecken und komplexe Aufgaben mit zunehmender Genauigkeit voll automatisch auszuführen.}
+      \field{howpublished}{https://www.ibm.com/de-de/topics/deep-learning}
+      \field{langid}{ngerman}
+      \field{month}{6}
+      \field{shorttitle}{{Was ist Deep Learning?}}
+      \field{title}{{Was ist Deep Learning? {|} IBM}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/3C8IHFQ9/deep-learning.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{KuenstlicheIntelligenz}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.digitale-technologien.de/DT/Navigation/DE/Themen/KuenstlicheIntelligenz/KuenstlicheIntelligenz.html}
+      \field{langid}{ngerman}
+      \field{title}{{Künstliche Intelligenz}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/M6TZM3VN/KuenstlicheIntelligenz.html
+      \endverb
+      \keyw{1 Einleitung,2.2 KI Def}
+    \endentry
+    \entry{pramodithaOverviewNeuralNetwork2022a}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=96dbc5d11231cbef7fb4e031e1602b4b}{%
+           family={Pramoditha},
+           familyi={P\bibinitperiod},
+           given={Rukshan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \strng{fullhash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \strng{bibnamehash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \strng{authorbibnamehash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \strng{authornamehash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \strng{authorfullhash}{96dbc5d11231cbef7fb4e031e1602b4b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neural Networks and Deep Learning Course: Part 8}
+      \field{howpublished}{https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa}
+      \field{journaltitle}{Medium}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Overview of a {{Neural Network}}'s {{Learning Process}}}
+      \field{urlday}{11}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/VHJCEQ2N/overview-of-a-neural-networks-learning-process-61690a502fa.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasSindKonvolutionale2021}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ein Convolutional Neural Network verwendet dreidimensionale Daten zur Bildklassifizierung und Objekterkennung.}
+      \field{howpublished}{https://www.ibm.com/de-de/topics/convolutional-neural-networks}
+      \field{langid}{ngerman}
+      \field{month}{10}
+      \field{shorttitle}{{Was sind konvolutionale neuronale Netze?}}
+      \field{title}{{Was sind konvolutionale neuronale Netze? {|} IBM}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/DTXNVU8W/convolutional-neural-networks.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{WasSindRekurrente2023}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Erfahren Sie, wie rekurrente neuronale Netze sequenzielle Daten verwenden, um allgemeine zeitliche Probleme zu lösen, die bei der Sprachkonvertierung und Spracherkennung auftreten.}
+      \field{howpublished}{https://www.ibm.com/de-de/topics/recurrent-neural-networks}
+      \field{langid}{ngerman}
+      \field{month}{12}
+      \field{shorttitle}{{Was sind rekurrente neuronale Netze?}}
+      \field{title}{{Was sind rekurrente neuronale Netze? {|} IBM}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/L3SFUK45/recurrent-neural-networks.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{KuenstlicheIntelligenzKI}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Informationen zur Forschung des Fraunhofer IKS in den Bereichen Künstliche Intelligenz und Machine Learning}
+      \field{howpublished}{https://www.iks.fraunhofer.de/de/themen/kuenstliche-intelligenz.html}
+      \field{journaltitle}{Fraunhofer-Institut für Kognitive Systeme IKS}
+      \field{langid}{ngerman}
+      \field{title}{{Künstliche Intelligenz (KI) und maschinelles Lernen - Fraunhofer IKS}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/C9VSP9BR/kuenstliche-intelligenz.html
+      \endverb
+      \keyw{2.2 KI Def}
+    \endentry
+    \entry{hartmannKuenstlicheIntelligenzIm2020}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=c62eecf247d19d943759e3b752003ab8}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0097d5d8cb0856996e5c2b4d9a882e31}{%
+           family={Ohst},
+           familyi={O\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c62eecf247d19d943759e3b752003ab8}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{fullhash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{bibnamehash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{authorbibnamehash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{authornamehash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{authorfullhash}{ce3b8a2cc6f3c6d9078b33cc8e4a4071}
+      \strng{editorbibnamehash}{c62eecf247d19d943759e3b752003ab8}
+      \strng{editornamehash}{c62eecf247d19d943759e3b752003ab8}
+      \strng{editorfullhash}{c62eecf247d19d943759e3b752003ab8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ein urheberrechtlicher Schutz von KI als Computerprogramm kommt in bestimmten Stadien in Betracht. Die reine Datenbasis, die die KI zum Training benutzt, kann eine geschützte Datenbank darstellen und auch andere geschützte Elemente enthalten. Ein Schutz der KI als Patent kommt nur dann in Betracht, wenn eine technische Wirkung vorliegt. Eine wenig beachtete Schutzlücke besteht aber für die gelernten Parameter einer KI, wenn diese lediglich in einer einfachen Datei gespeichert sind. Hier könnte der ergänzende Schutz als Geschäftsgeheimnis wichtig werden. Die KI als urheberrechtliches Werk eigener Art und als Schöpfer von Werken sind Schwerpunkte der Diskussion.}
+      \field{booktitle}{{KI \& Recht kompakt}}
+      \field{isbn}{978-3-662-61700-7}
+      \field{langid}{ngerman}
+      \field{title}{{Künstliche Intelligenz im Immaterialgüterrecht}}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 164}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-3-662-61700-7_4
+      \endverb
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/ADG5I75E/Hartmann and Ohst - 2020 - Künstliche Intelligenz im Immaterialgüterrecht.pdf
+      \endverb
+      \keyw{3.2 KI als Erfinder}
+    \endentry
+    \entry{PatGNichtamtlichesInhaltsverzeichnis}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.gesetze-im-internet.de/patg/}
+      \field{title}{{{PatG}} - Nichtamtliches {{Inhaltsverzeichnis}}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/M7E2LMMS/patg.html
+      \endverb
+    \endentry
+    \entry{GewerblicherRechtschutzUnd}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gewerblicher Rechtschutz und Urheberrecht}
+      \field{howpublished}{https://www.bmj.de/DE/themen/wirtschaft\_finanzen/rechtschutz\_urheberrecht/rechtschutz\_urheberrecht\_node.html}
+      \field{journaltitle}{Bundesministerium der Justiz}
+      \field{langid}{ngerman}
+      \field{title}{{Gewerblicher Rechtschutz und Urheberrecht}}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/Q6HRQG6R/rechtschutz_urheberrecht_node.html
+      \endverb
+    \endentry
+    \entry{EPA27012020}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{18 275 163.6}
+      \field{title}{{{EPA}}, 27.01.2020 - 18 275 163.6}
+      \field{type}{Urt.}
+      \field{year}{2020}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/ZFNG6I5X/Dokument.html
+      \endverb
+    \endentry
+    \entry{TextsAdoptedIntellectual}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277\_EN.html}
+      \field{langid}{english}
+      \field{title}{Texts Adopted - {{Intellectual}} Property Rights for the Development of Artificial Intelligence Technologies - {{Tuesday}}, 20 {{October}} 2020}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/HGGYBV63/TA-9-2020-0277_EN.html
+      \endverb
+    \endentry
+    \entry{gutaAPPLICABILITYGDPRARTIFICIAL2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba0017f3fc74a1e61e7baf66913be2e8}{%
+           family={Guta},
+           familyi={G\bibinitperiod},
+           given={Tomasz\bibnamedelima Tadeusz},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WAT}%
+      }
+      \strng{namehash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \strng{fullhash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \strng{bibnamehash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \strng{authorbibnamehash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \strng{authornamehash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \strng{authorfullhash}{ba0017f3fc74a1e61e7baf66913be2e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Both national security and information security are closely associated with and connected to the emerging field of artificial intelligence. In this regard, following the presumed axioms of the anticipated proliferation of AI systems within modern society and its expected widespread implementation...}
+      \field{issn}{2082-2677}
+      \field{journaltitle}{Studia Bezpieczeństwa Narodowego}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{{{THE APPLICABILITY OF THE GDPR TO ARTIFICIAL INTELLIGENCE AND THE RESULTING THREATS TO NATIONAL INFORMATION SECURITY}}}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{24}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{25\bibrangedash 46}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.37055/sbn/151151
+      \endverb
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/SBPJ4LTM/Guta - 2022 - THE APPLICABILITY OF THE GDPR TO ARTIFICIAL INTELL.pdf
+      \endverb
+    \endentry
+    \entry{surdenMachineLearningLaw}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d4c6cd402ca894f6bce67715c56adfb}{%
+           family={Surden},
+           familyi={S\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \strng{fullhash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \strng{bibnamehash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \strng{authorbibnamehash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \strng{authornamehash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \strng{authorfullhash}{9d4c6cd402ca894f6bce67715c56adfb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{WASHINGTON LAW REVIEW}
+      \field{langid}{english}
+      \field{title}{Machine {{Learning}} and {{Law}}}
+      \field{volume}{89}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/T6FZYEZY/Surden - Machine Learning and Law.pdf
+      \endverb
+    \endentry
+    \entry{dornisDornisSchopfungOhne2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=50d810e86fc600a64139d65902118762}{%
+           family={Dornis},
+           familyi={D\bibinitperiod},
+           given={Tim\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{50d810e86fc600a64139d65902118762}
+      \strng{fullhash}{50d810e86fc600a64139d65902118762}
+      \strng{bibnamehash}{50d810e86fc600a64139d65902118762}
+      \strng{authorbibnamehash}{50d810e86fc600a64139d65902118762}
+      \strng{authornamehash}{50d810e86fc600a64139d65902118762}
+      \strng{authorfullhash}{50d810e86fc600a64139d65902118762}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Künstliche Intelligenz (KI) hält Einzug in alle Lebensbereiche, so auch bei kreativer Produktion und erfinderischer Tätigkeit. KI wird unter anderem bei der Erstellung von Nachrichtentexten, der Komposition von Musik und der Erschaffung von bildender Kunst, aber auch in der pharmazeutischen Forschung und Entwicklung eingesetzt. Über die Ergebnisse dieses KI-Einsatzes herrscht Streit: Im Kern geht es um die Frage, ob KI-generierte ,,Werke`` und ,,Erfindungen`` nach Urheber- oder Patentrecht zu schützen sind, oder ob ein solcher Schutz -- mangels menschlicher Schöpfung -- scheitern muss. Auch das Europäische Parlament und die Kommission haben das Thema mittlerweile auf der Agenda. Wie ein Blick auf dogmatische Grundlagen und wirtschaftliche Hintergründe der ,,Schöpfung ohne Schöpfer`` offenbart, ist das geltende Recht den neuen Herausforderungen kaum gewachsen.}
+      \field{journaltitle}{Gewerblicher Rechtsschutz und Urheberrecht}
+      \field{number}{6}
+      \field{shorttitle}{Dornis}
+      \field{title}{Dornis: {{Die}} ,,{{Schöpfung}} Ohne {{Schöpfer}}`` -- {{Klarstellungen}} Zur ,,{{KI-Autonomie}}`` Im {{Urheber-}} Und {{Patentrecht}}}
+      \field{year}{2021}
+      \field{pages}{784\bibrangedash 792}
+      \range{pages}{9}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/4URS3EQY/Dokument.html
+      \endverb
+      \keyw{3.2 KI als Erfinder}
+    \endentry
+    \entry{BPatG21122021}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Redaktionelle Leitsätze: 					1. Die Angabe einer nicht-menschlichen Entität als Erfinder erfüllt nicht die Anforderung an der Erfinderbenennung.~ (Rn. GRURRS Jahr 2021 Randnummer 24) 					2. Ist ein Patentanmelder Eigentümer, Besitzer, Hersteller, Programmierer sowie Betreiber einer Maschine mit künstlicher Intelligenz und hat keine andere Person einen Beitrag zur Erfindung geliefert, spricht nichts dagegen, dass er sich als Erfinder bezeichnet.~ ~ ~ (Rn. GRURRS Jahr 2021 Randnummer 27) 					3. Hat der Anmelder im Hinblick auf die Wahrheitspflicht Bedenken, zu verschweigen, dass er eine Maschine mit künstlicher Intelligenz zur Hilfe genommen hat, kann er dies in der Beschreibung angeben.~~ (Rn. GRURRS Jahr 2021 Randnummer 29)}
+      \field{month}{12}
+      \field{number}{BPATG Aktenzeichen 18 W (pat) 28/20}
+      \field{title}{{{BPatG}}, 21.12.2021 - {{BPATG Aktenzeichen}} 18 {{W}} (Pat) 28/20}
+      \field{type}{Beschl.}
+      \field{year}{2021}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/PAXL2QE8/Dokument.html
+      \endverb
+    \endentry
+    \entry{konertzErfindungenDurchComputer2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b19f5556da38a959645953236a2a29a0}{%
+           family={Konertz},
+           familyi={K\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod}}}%
+        {{hash=76aa2940e4b4077aff017ea104a6502b}{%
+           family={Schönhof},
+           familyi={S\bibinitperiod},
+           given={Raoul},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{829e8b4910904e1a3254d10dfb05aec7}
+      \strng{fullhash}{829e8b4910904e1a3254d10dfb05aec7}
+      \strng{bibnamehash}{829e8b4910904e1a3254d10dfb05aec7}
+      \strng{authorbibnamehash}{829e8b4910904e1a3254d10dfb05aec7}
+      \strng{authornamehash}{829e8b4910904e1a3254d10dfb05aec7}
+      \strng{authorfullhash}{829e8b4910904e1a3254d10dfb05aec7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1867-237X}
+      \field{journaltitle}{Zeitschrift für geistiges Eigentum}
+      \field{langid}{ngerman}
+      \field{number}{4}
+      \field{title}{{Erfindungen durch Computer und künstliche Intelligenz -- eine aktuelle Herausforderung für das Patentrecht?}}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{379}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1628/zge-2018-0032
+      \endverb
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/YYX7BU5D/Konertz and Schönhof - 2018 - Erfindungen durch Computer und künstliche Intellig.pdf
+      \endverb
+      \keyw{3.2 KI als Erfinder}
+    \endentry
+    \entry{delvauxMitEmpfehlungenKommission}{article}{}
+      \name{author}{1}{}{%
+        {{hash=48cabb6dc57e254931e94ba286b81385}{%
+           family={Delvaux},
+           familyi={D\bibinitperiod},
+           given={Mady},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{48cabb6dc57e254931e94ba286b81385}
+      \strng{fullhash}{48cabb6dc57e254931e94ba286b81385}
+      \strng{bibnamehash}{48cabb6dc57e254931e94ba286b81385}
+      \strng{authorbibnamehash}{48cabb6dc57e254931e94ba286b81385}
+      \strng{authornamehash}{48cabb6dc57e254931e94ba286b81385}
+      \strng{authorfullhash}{48cabb6dc57e254931e94ba286b81385}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{ngerman}
+      \field{title}{{mit Empfehlungen an die Kommission zu zivilrechtlichen Regelungen im Bereich Robotik (2015/2103(INL))}}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/SHQRLFY9/Delvaux - mit Empfehlungen an die Kommission zu zivilrechtli.pdf
+      \endverb
+    \endentry
+    \entry{haedickeEinfuhrung2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dab00d5b703d30c03c08f09eb98ca31c}{%
+           family={Haedicke},
+           familyi={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=dab00d5b703d30c03c08f09eb98ca31c}{%
+           family={Haedicke},
+           familyi={H\bibinitperiod}}}%
+        {{hash=1007e9f70c51c2b014041933476a997e}{%
+           family={Timmann},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{fullhash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{bibnamehash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{authorbibnamehash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{authornamehash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{authorfullhash}{dab00d5b703d30c03c08f09eb98ca31c}
+      \strng{editorbibnamehash}{9379d1e4f12320aacace3bdbdd341e86}
+      \strng{editornamehash}{9379d1e4f12320aacace3bdbdd341e86}
+      \strng{editorfullhash}{9379d1e4f12320aacace3bdbdd341e86}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{journaltitle}{Handbuch des Patentrechts}
+      \field{title}{{§} 1. {{Einführung}}}
+      \field{year}{2020}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/3AHWP34N/Dokument.html
+      \endverb
+    \endentry
+    \entry{BGH27031969}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{a) Dem Patentschutz zugänglich ist eine Lehre zum planmä{ß}igen Handeln unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines kausal übersehbaren Erfolges; auch die planmä{ß}ige Ausnutzung biologischer Naturkräfte und Erscheinungen ist nicht grundsätzlich vom Patentschutz ausgeschlossen. b) Notwendige Voraussetzung für die Patentierung eines Tierzüchtungsverfahrens ist seine Wiederholbarkeit.}
+      \field{month}{3}
+      \field{number}{X ZB 15/67}
+      \field{shorttitle}{{{BGH}} 27.03.1969 {{X ZB}} 15/67 "{{Rote Taube}}" Zur {{Fussnote}}}
+      \field{title}{{{BGH}}, 27.03.1969 - {{X ZB}} 15/67 - {{BGH}} 27.03.1969 {{X ZB}} 15/67 "{{Rote Taube}}" Zur {{Fussnote}}}
+      \field{volume}{1969}
+      \field{year}{1969}
+      \field{pages}{672\bibrangedash 676}
+      \range{pages}{5}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/KVSFZ53I/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{BGH3020152015}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{6}
+      \field{number}{X ZB 1/15}
+      \field{shorttitle}{Flugzeugzustand}
+      \field{title}{{{BGH}}, 30.6.2015 - {{X ZB}} 1/15 - {{Flugzeugzustand}}}
+      \field{type}{Beschl.}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{983\bibrangedash 985}
+      \range{pages}{3}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/SLSLIS5S/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{BGH2420112011a}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{1. Bei Erfindungen mit Bezug zu Geräten und Verfahren (Programmen) der elektronischen Datenverarbeitung ist zunächst zu klären, ob der Gegenstand der Erfindung zumindest mit einem Teilaspekt auf technischem Gebiet liegt ({§} PATG {§} 1 PATG {§} 1 Absatz I PatG). Danach ist zu prüfen, ob dieser Gegenstand lediglich ein Programm für Datenverarbeitungsanlagen als solches darstellt und deshalb vom Patentschutz ausgeschlossen ist. Der Ausschlusstatbestand greift nicht ein, wenn diese weitere Prüfung ergibt, dass die Lehre Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen. 2. Ein Verfahren, das der datenverarbeitungsmä{ß}igen Abarbeitung von Verfahrensschritten in netzwerkmä{ß}ig verbundenen technischen Geräten (Server, Clients) dient, weist die für den Patentschutz vorauszusetzende Technizität auch dann auf, wenn diese Geräte nicht ausdrücklich im Patentanspruch genannt sind.}
+      \field{month}{2}
+      \field{number}{X ZR 121/09}
+      \field{shorttitle}{Erfindungen Mit {{Bezug}} Zu {{Geräten}} Und {{Computerprogrammen}}}
+      \field{title}{{{BGH}}, 24. 2. 2011 - {{X ZR}} 121/09 - {{Erfindungen}} Mit {{Bezug}} Zu {{Geräten}} Und {{Computerprogrammen}}}
+      \field{type}{Urt.}
+      \field{volume}{2011}
+      \field{year}{2011}
+      \field{pages}{610\bibrangedash 613}
+      \range{pages}{4}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/DX4TK2PF/Dokument.html
+      \endverb
+    \endentry
+    \entry{instituteofelectricalandelectronicsengineersinc.ISO47652010}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=33d11f2d4c7b26ba99c7a817fe7bee49}{%
+           family={{Institute of Electrical {and} Electronics Engineers, Inc.}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \strng{fullhash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \strng{bibnamehash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \strng{authorbibnamehash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \strng{authornamehash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \strng{authorfullhash}{33d11f2d4c7b26ba99c7a817fe7bee49}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{ISO}} 4765-2010}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/RJFC6AWB/Institute of Electrical and Electronics Engineers, Inc. - ISO 4765-2010.pdf
+      \endverb
+    \endentry
+    \entry{WasIstProgramm}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In der Informatik ist ein Computerprogramm (Programm) ein spezifischer Satz von geordneten Rechenoperationen, die ein Computer ausführen soll.}
+      \field{howpublished}{https://www.computerweekly.com/de/definition/Computerprogramm-Programm}
+      \field{journaltitle}{ComputerWeekly.de}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Was ist Programm (Computerprogramm)?}}
+      \field{title}{{Was ist Programm (Computerprogramm)? - Definition von Computer Weekly}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/TP6XV4HT/Computerprogramm-Programm.html
+      \endverb
+    \endentry
+    \entry{lackesDefinitionAnwendungsprogramm}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=60547c6eb8f55ed54128643c6154c7ec}{%
+           family={Lackes},
+           familyi={L\bibinitperiod},
+           given={Prof\bibnamedelimb Dr\bibnamedelima Richard},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{fullhash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{bibnamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authorbibnamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authornamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authorfullhash}{60547c6eb8f55ed54128643c6154c7ec}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Was ist "Anwendungsprogramm"? Definition im Gabler Wirtschaftslexikon vollständig und kostenfrei online. \ding{51}Geprüftes Wissen beim Original.}
+      \field{chapter}{economy}
+      \field{howpublished}{https://wirtschaftslexikon.gabler.de/definition/anwendungsprogramm-29651}
+      \field{journaltitle}{https://wirtschaftslexikon.gabler.de/definition/anwendungsprogramm-29651}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Definition}}
+      \field{title}{{Definition: Anwendungsprogramm}}
+      \field{type}{{Text}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/VFE6ZACH/anwendungsprogramm-29651.html
+      \endverb
+    \endentry
+    \entry{lackesDefinitionSystemprogramm}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=60547c6eb8f55ed54128643c6154c7ec}{%
+           family={Lackes},
+           familyi={L\bibinitperiod},
+           given={Prof\bibnamedelimb Dr\bibnamedelima Richard},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \strng{namehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{fullhash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{bibnamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authorbibnamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authornamehash}{60547c6eb8f55ed54128643c6154c7ec}
+      \strng{authorfullhash}{60547c6eb8f55ed54128643c6154c7ec}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Was ist "Systemprogramm"? Definition im Gabler Wirtschaftslexikon vollständig und kostenfrei online. \ding{51}Geprüftes Wissen beim Original.}
+      \field{chapter}{economy}
+      \field{howpublished}{https://wirtschaftslexikon.gabler.de/definition/systemprogramm-50325}
+      \field{journaltitle}{https://wirtschaftslexikon.gabler.de/definition/systemprogramm-50325}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Definition}}
+      \field{title}{{Definition: Systemprogramm}}
+      \field{type}{{Text}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/NVKELR67/systemprogramm-50325.html
+      \endverb
+    \endentry
+    \entry{ComputerProgrammeUnverzichtbareComputerprogramme}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{howpublished}{https://www.lenovo.com/de/de/glossary/computer-programs/}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Computer-Programme}}
+      \field{title}{{Computer-Programme: Unverzichtbare Computerprogramme für Fachleute {|} Lenovo Deutschland}}
+      \field{urlday}{16}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/N2T28FRY/computer-programs.html
+      \endverb
+    \endentry
+    \entry{MathematischeMethoden}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.epo.org/de/legal/guidelines-epc/2024/g\_ii\_3\_3.html}
+      \field{title}{3.3 {{Mathematische Methoden}}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/3LH2XP4U/g_ii_3_3.html
+      \endverb
+    \endentry
+    \entry{melullisEPUArt522023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b4938857043d102a3bea59c319305796}{%
+           family={Melullis},
+           familyi={M\bibinitperiod}}}%
+        {{hash=92f12d5850e4d2bfeae5a79431cae80e}{%
+           family={Koch},
+           familyi={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bf137187291628b79454b52baf207a34}{%
+           family={EPÜ},
+           familyi={E\bibinitperiod},
+           given={Europäisches\bibnamedelima Patentübereinkommen-},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{fullhash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{bibnamehash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{authorbibnamehash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{authornamehash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{authorfullhash}{2b9e6874f958ed3cd23ffd12f9cb31b3}
+      \strng{editorbibnamehash}{bf137187291628b79454b52baf207a34}
+      \strng{editornamehash}{bf137187291628b79454b52baf207a34}
+      \strng{editorfullhash}{bf137187291628b79454b52baf207a34}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{journaltitle}{Benkard}
+      \field{title}{{{EPÜ Art}}. 52 {{Patentierbare Erfindungen}}}
+      \field{year}{2023}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/6EN5D2NE/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{ensthalerEnsthalerBegrenzungPatentierung2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9ee1efb0b9edc065bfdc88ac76c81774}{%
+           family={Ensthaler},
+           familyi={E\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{fullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{bibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authorbibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authornamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authorfullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ein so genannter interfraktioneller Antrag im Bundestag ist darauf gerichtet, die Patentierung von Computerprogrammen effektiv zu begrenzen. Der Beitrag nimmt zu diesem Antrag Stellung und entwickelt einen eigenen Vorschlag.}
+      \field{journaltitle}{Gewerblicher Rechtsschutz und Urheberrecht}
+      \field{number}{7}
+      \field{shorttitle}{Ensthaler}
+      \field{title}{Ensthaler: {{Begrenzung}} Der {{Patentierung}} von {{Computerprogrammen}}?}
+      \field{year}{2013}
+      \field{pages}{666\bibrangedash 669}
+      \range{pages}{4}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/CAJZRDZP/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{EPThisFile}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://register.epo.org/application?number=EP79300903}
+      \field{title}{{{EP About}} This File - {{European Patent Register}}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/V9KWNCB2/application.html
+      \endverb
+    \endentry
+    \entry{BPatG10012012}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{BPATG Aktenzeichen 17 W (pat) 74/07}
+      \field{title}{{{BPatG}}, 10.01.2012 - {{BPATG Aktenzeichen}} 17 {{W}} (Pat) 74/07}
+      \field{type}{Beschl.}
+      \field{year}{2012}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/Q5IKRBBG/Dokument.html
+      \endverb
+    \endentry
+    \entry{BPatG01032001}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{number}{BPATG Aktenzeichen 17 W (pat) 6/00}
+      \field{title}{{{BPatG}}, 01.03.2001 - {{BPATG Aktenzeichen}} 17 {{W}} (Pat) 6/00}
+      \field{type}{Beschl.}
+      \field{year}{2001}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/BDYPTQWE/Dokument.html
+      \endverb
+    \endentry
+    \entry{EuropaischesPatentamt152006}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{1. Betriebswirtschaftliche Forschungsverfahren sind ,,als solche'' nach Art. EUPATUEBER Artikel 52 (2)c) und (3) EPÜ nicht patentfähig. 2. Das Sammeln und das Auswerten von Daten im Rahmen eines betriebswirtschaftlichen Forschungsverfahrens verleihen dem Verfahren keinen technischen Charakter, es sei denn, diese Schritte tragen zur technischen Lösung einer technischen Aufgabe bei. zur Fussnote *}
+      \field{month}{11}
+      \field{number}{T 154/04}
+      \field{shorttitle}{Patentrecht}
+      \field{title}{Europäisches {{Patentamt}}, 15.11.2006 - {{T}} 154/04 - {{Patentrecht}}}
+      \field{volume}{2008}
+      \field{year}{2006}
+      \field{pages}{337\bibrangedash 345}
+      \range{pages}{9}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/XTP3JFDM/Dokument.html
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{redekerSchutzSoftware2023}
+\endrefsection
+\endinput
 
-\bibitem[BGH15]{BGH3020152015}
-{\em {{BGH}}, 30.6.2015 - {{X ZB}} 1/15 - {{Flugzeugzustand}}},
-  \btxmonjunlong{} 2015.
-
-\bibitem[Cha]{ChatGPT}
-{\em {{ChatGPT}}}.
-\newblock https://chatgpt.com.
-
-\bibitem[Com]{ComputerProgrammeUnverzichtbareComputerprogramme}
-{\em {Computer-Programme: Unverzichtbare Computerprogramme f{\"u}r Fachleute
-  {\textbar} Lenovo Deutschland}}.
-\newblock https://www.lenovo.com/de/de/glossary/computer-programs/.
-
-\bibitem[DPM]{DPMAPatentschutz}
-{\em {DPMA {\textbar} Patentschutz}}.
-\newblock https://www.dpma.de/patente/patentschutz/index.html.
-
-\bibitem[Hae20]{haedickeEinfuhrung2020}
-{\sc Haedicke}: {\em {\S} 1. {{Einf{\"u}hrung}}}.
-\newblock Handbuch des Patentrechts, 2020.
-
-\bibitem[{Ins}]{instituteofelectricalandelectronicsengineersinc.ISO47652010}
-{\sc {Institute of Electrical {and} Electronics Engineers, Inc.}}: {\em {{ISO}}
-  4765-2010}.
-
-\bibitem[Kuea]{KuenstlicheIntelligenz}
-{\em {K{\"u}nstliche Intelligenz}}.
-\newblock
-  https://www.digitale-technologien.de/DT/Navigation/DE/Themen/KuenstlicheIntelligenz/KuenstlicheIntelligenz.html.
-
-\bibitem[Kueb]{KuenstlicheIntelligenzKI}
-{\em {K{\"u}nstliche Intelligenz (KI) und maschinelles Lernen - Fraunhofer
-  IKS}}.
-\newblock https://www.iks.fraunhofer.de/de/themen/kuenstliche-intelligenz.html.
-
-\bibitem[Laca]{lackesDefinitionAnwendungsprogramm}
-{\sc Lackes, Prof Dr~Richard}: {\em {Definition: Anwendungsprogramm}}.
-\newblock
-  https://wirtschaftslexikon.gabler.de/definition/anwendungsprogramm-29651.
-
-\bibitem[Lacb]{lackesDefinitionSystemprogramm}
-{\sc Lackes, Prof Dr~Richard}: {\em {Definition: Systemprogramm}}.
-\newblock https://wirtschaftslexikon.gabler.de/definition/systemprogramm-50325.
-
-\bibitem[Num23]{NumberChatGPTUsers2023}
-{\em Number of {{ChatGPT Users}} ({{Jun}} 2024)}.
-\newblock https://explodingtopics.com/blog/chatgpt-users, \btxmonmarlong{}
-  2023.
-
-\bibitem[Pat]{PatGNichtamtlichesInhaltsverzeichnis}
-{\em {{PatG}} - Nichtamtliches {{Inhaltsverzeichnis}}}.
-\newblock https://www.gesetze-im-internet.de/patg/.
-
-\bibitem[Pra22]{pramodithaOverviewNeuralNetwork2022a}
-{\sc Pramoditha, Rukshan}: {\em Overview of a {{Neural Network}}'s {{Learning
-  Process}}}.
-\newblock
-  https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa,
-  \btxmonfeblong{} 2022.
-
-\bibitem[Sta]{stadlerKuenstlicheIntelligenz}
-{\sc Stadler, Max-Ludwig}: {\em {K{\"u}nstliche Intelligenz}}.
-
-\bibitem[Wasa]{WasIstGenerative}
-{\em {Was ist generative KI? Grundlagen und Anwendung {\textbar} Red Hat}}.
-\newblock https://www.redhat.com/de/topics/ai/what-is-generative-ai.
-
-\bibitem[Wasb]{WasIstKuenstliche}
-{\em {Was ist k{\"u}nstliche Intelligenz? {\textbar} KI im Unternehmen und KI
-  f{\"u}r Unternehmen {\textbar} SAP Insights}}.
-\newblock
-  https://www.sap.com/germany/products/artificial-intelligence/what-is-artificial-intelligence.html.
-
-\bibitem[Wasc]{WasIstProgramm}
-{\em {Was ist Programm (Computerprogramm)? - Definition von Computer Weekly}}.
-\newblock
-  https://www.computerweekly.com/de/definition/Computerprogramm-Programm.
-
-\bibitem[Was20]{WasIstKuenstliche2020}
-{\em {Was ist k{\"u}nstliche Intelligenz und wie wird sie genutzt?}}
-\newblock
-  https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt,
-  \btxmonseplong{} 2020.
-
-\bibitem[Was21a]{WasIstKuenstliche2021}
-{\em {Was ist k{\"u}nstliche Intelligenz (KI)? {\textbar} IBM}}.
-\newblock https://www.ibm.com/de-de/topics/artificial-intelligence,
-  \btxmonoctlong{} 2021.
-
-\bibitem[Was21b]{WasSindKonvolutionale2021}
-{\em {Was sind konvolutionale neuronale Netze? {\textbar} IBM}}.
-\newblock https://www.ibm.com/de-de/topics/convolutional-neural-networks,
-  \btxmonoctlong{} 2021.
-
-\bibitem[Was23a]{WasIstDeep2023}
-{\em {Was ist Deep Learning? {\textbar} IBM}}.
-\newblock https://www.ibm.com/de-de/topics/deep-learning, \btxmonjunlong{}
-  2023.
-
-\bibitem[Was23b]{WasIstStarke2023}
-{\em {Was ist starke KI? {\textbar} IBM}}.
-\newblock https://www.ibm.com/de-de/topics/strong-ai, \btxmonmaylong{} 2023.
-
-\bibitem[Was23c]{WasSindRekurrente2023}
-{\em {Was sind rekurrente neuronale Netze? {\textbar} IBM}}.
-\newblock https://www.ibm.com/de-de/topics/recurrent-neural-networks,
-  \btxmondeclong{} 2023.
-
-\bibitem[Wha]{WhatAIBasica}
-{\em What Is {{AI}}? / {{Basic Questions}}}.
-\newblock
-  http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html.
-
-\end{thebibliography}

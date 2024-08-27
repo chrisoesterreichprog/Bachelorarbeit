@@ -1,38 +1,425 @@
 \chapter{Patentierbarkeit von KI generierten Erfindungen und Computerprogrammen\label{cha:chapter3}}
-This section determines the requirements necessary for X. This includes the functional aspects, namely Y and Z, and the non functional aspects such as A and B.
-auf Vorraussetzungen eingehen 
-This chapter will have 5-10 page from here
-\section{Patentierbarkeit von Computerprogrammen\label{sec:patcom}}
 
 
-The following subsection outlines the technical requirements to Component X.
+\section{Einführung in das Patentrecht\label{sec:Patentrecht}}
 
-\subsection{Technischer Aspekt\label{sec:reqsuba}}
 
-\textbf{Approx 1 day}
+Das Deutsche Patent- und Markenamt (DPMA) ist die zentrale Behörde in Deutschland, 
+die für den Schutz von geistigem Eigentum zuständig ist und 
+beschreibt den Nutzen von Patenten wie folgt:
+\\
+\\
+\textit{''Mit Patenten können Sie Ihre technischen Erfindungen 
+(innovative Produkte oder Verfahren) vor unerwünschter Nachahmung schützen. 
+Patente belohnen ihren Inhaber 
+oder ihre Inhaberin durch ein befristetes und räumlich begrenztes Nutzungsmonopol.''} 
+\cite{DPMAPatentschutz}
+\\
+\\
+Das Bundespatentgericht (BPatG) ist für Streitigkeiten über Patente zuständig, 
+insbesondere für Nichtigkeitsklagen und Beschwerden gegen Entscheidungen des DPMA.
 
-\section{Exkurs: Urheberrecht\label{sec:urh}}
+Das deutsche Patentgesetz(PatG) \cite{PatGNichtamtlichesInhaltsverzeichnis} 
+regelt die rechtlichen Rahmenbedingungen für Patente in Deutschland.
+Das Patentrecht in Deutschland ist ein spezieller Teil des gewerblichen Rechtsschutzes, 
+der wiederum zum Bereich des Immaterialgüterrechts gehört. 
+Es ist durch das Grundgesetz geschützt, insbesondere durch Art. 14 GG, 
+der das Eigentum und das Erbrecht gewährleistet. 
+Im materiellen Sinne gehören Patente zum Eigentum.
+Ein weiterer Teil des Immaterialgüterrechts ist das Urheberrecht. 
+Dieses grenzt sich von anderen Teilen des
+gewerblichen Rechtsschutzes wie das Markenrecht und Designrecht dadurch ab, das 
+es kreative Leistungen schützt\cite{GewerblicherRechtschutzUnd}. 
 
-\textbf{Approx 1 day}
-Component X must compete with Y. Hence, it is required to provide an excellent usability. This includes ...
-\section{Patentierbarkeit von KI generierten Erfindungen\label{sec:reqoverview}}
 
-\textbf{Approx 2 days}
-In this chapter you will describe the requirements for your component. Try to group the requirements into subsections such as 'technical requirements', 'functional requirements', 'social requirements' or something like this. If your component consist of different partial components you can also group the requirements for the corresponding parts. 
+Ein Patent kann gemäß §49 Abs.1 PatG von der Prüfstelle des DPMA erteilt werden. 
+Um die Patentierbarkeit von durch künstliche Intelligenz geschaffener Computerprogramme 
+zu prüfen fokussiert sich diese Arbeit auf die Erteilung von Patenten. 
+Die Erteilung von Patenten lässt sich in formelle und materielle Vorrraussetzungen 
+gliedern, was sich aus §49 Abs.1 PatG ableitet. 
+Das Deutsche Patent- und Markenamt prüft auf Antrag (§44 Abs.1 PatG) 
+die formellen und materiellen Vorrausetzungen.
 
-\subsection{Materielle Vorraussetzungen\label{sec:matvor}}
+\section{Formelle Vorraussetzungen}
 
-\subsubsection{Urheber}
+Zu den formellen Vorraussetzungen gehören:
+\begin{enumerate}
+    \item Anmeldung und Form, §§ 34, 37 und 38 PatG 
+    \vspace{-0.11in} 
+    \item Beseitigung gerügter Mängel, § 45 Abs. 1 PatG
+\end{enumerate}
+
+Patente müssen angemeldet werden (§ 34 Abs. 1 PatG). 
+Gemäß § 34 Abs. 3 PatG muss die Anmeldung den Namen der/des Anmelders*in 
+(Nr. 1), einen Antrag auf Erteilung des Patents, 
+in dem die Erfindung kurz und genau bezeichnet ist (Nr. 2), 
+einen oder mehrere Patentansprüche (Nr. 3), 
+eine Beschreibung der Erfindung (Nr. 4) sowie die Zeichnungen, 
+auf die sich die Patentansprüche oder die Beschreibung beziehen (Nr. 5), 
+enthalten. 
+Außerdem muss die Erfindung vollständig und deutlich offenbart sein (§ 34 Abs. 4 PatG) 
+und nur eine einzige Erfindung enthalten (§ 34 Abs. 5 PatG). 
+Paragraph 37 des PatG befasst sich mit der korrekten Erfinderbennenung 
+und Paragraph 38 mit Änderungen der Anmeldung. 
+\\
+
+Sind die oben genannten formellen Anforderungen nicht erfüllt § 45 Abs. 1 PatG, 
+wird der Anmelder aufgefordert, diese innerhalb einer bestimmten Frist zu beseitigen.
+
+Wenn die gerügten Mängel beseitigt wurden 
+oder es gemäß §§ 34, 37 und 38 PatG keine gerügten Mängel gibt 
+sind die formellen Vorrausetzungen für die Erteilung eines Patents erfüllt.
+
+Bei der Patentierbarkeit von KI generierten Erfindungen ist ein besonderes Augenmerk
+auf § 34 Abs. 3 PatG Nr.1 zu werfen, da hier keine natürliche Person
+die Erfindung hergestellt hat sondern eine KI.
+
+\subsection{KI als Erfinder}
+Die Bennung der KI als Erfinder ist ziemlich naheliegend, 
+da in § 124 PatG zur Vollständigigkeit und Wahrheit vor dem
+Deutschen Patent- und Markenamt, 
+dem Patentgericht und dem Bundesgerichtshof aufgerufen wird.
+\\
+Am 17.10.2018 ging beim EPA(Europäisches Patentamt) ein Patent ein, 
+welches eine leere Zeile als Erfinder aufwies und später mit 
+dem Namen der KI 
+"DABUS"(Device for the Autonomous Bootstrapping of Unified Sentience) 
+als Erfinder ergänzt wurde. 
+Das EPA(Europäisches Patentamt) hat daraufhin entschieden, 
+dass diese Bennenung nicht dem Artikel 81 Abs.19 (1) EPÜ genügt,
+da der Erfinder eine natürliche Person sein muss, sowie ein 
+Familienname, Vorname und eine Adresse angegeben werden muss.
+Damit sind die formellen Vorrausetzungen an das Patent mit dem Aktenzeichen
+EP 18 275 163 nicht erfüllt und das Patent wurde nicht erteilt. 
+Außerdem wurde entschieden, das Namen die Dingen gegeben werden nicht
+mit Namen natürlicher Personen gleichzusetzen sind. Maschinen oder KI
+Systeme haben keine Rechte, die durch den Namen ausgeübt werden können 
+\cite{EPA27012020}. 
+In einem Beschluss vom 20.Oktober 2020 wird das Thema im Europäischem
+Parlament nochmals aufgegriffen und erkannt, 
+dass die aktuelle Gesetzeslage nur Erfindungen berücksichtigt,
+die von Menschen mit Hilfe von KI geschaffenen wurden. 
+Eine klare Unterscheidung muss getroffen werden um diese 
+von vollständig autonom von KI geschaffenen Erfindungen abzugrenzen
+\cite{TextsAdoptedIntellectual}.
+Eine Studie, welche von der EU Kommission beauftragt wurde 
+sieht die derzeitige Gesetzeslage dahingegen als ausreichend 
+und fordert erst Handlungsbedarf bei dem Einsatz von starken KIs.
+Es wird vorgeschlagen dann ein spezifisches Roboterrecht zu schaffen, 
+um den Umgang mit intelligenten Maschinen zu regeln 
+und die Informationssicherheit zu gewährleisten
+\cite{gutaAPPLICABILITYGDPRARTIFICIAL2022}.
+Jedoch ist es auch heute schon möglich teilweise 
+Unabhängigkeit von menschlicher Einwirkung
+zu schaffen, da auch schwache KIs durch Deep Learning 
+Fähigkeiten nach einwirken durch den Menschen erlangen, wie bei DABUS
+\cite{surdenMachineLearningLaw}\cite{dornisDornisSchopfungOhne2021}.
+Eine weitere Form autonomer KIs sind die Genetic Breeding Algorithmen,
+welche auch einen minimalen menschlichen Input beim Erschaffungsprozess 
+verlangen.
+\\
+Bei der Anmeldung vor dem DPMA am 17. Oktober 2019 mit dem Aktenzeichen
+10 2019 129 136 kann die künstliche Intelligenz 
+DABUS ebenfalls nicht als Erfinder in Kraft treten. 
+Eine künstlichen Intelligenz, 
+erfüllt nicht die gesetzlichen Anforderungen an die Erfinderbenennung 
+gemäß § 37 PatG und § 7 PatV. In § 7 PatV wird ebenfalls
+Familienname, Vorname und eine Adresse gefordert. 
+Die KI "DABUS" wird vom DPMA ebenfalls als 
+Sache bzw. Machine angesehen, welche kein Träger von Rechten sein kann.
+Wenn der Anmelder der einzige ist, 
+der die Maschine genutzt hat, 
+und keine andere Person zur Erfindung beigetragen hat, 
+kann er sich selbst als Erfinder benennen. 
+Falls der Anmelder Bedenken hat, 
+die Nutzung der künstlichen Intelligenz zu verschweigen, 
+kann er die Nutzung in der Beschreibung der Patentanmeldung angeben 
+und so der Wahrheitspflicht gemäß § 124 PatG gerecht werden.
+\cite{BPatG21122021}.
+Einen weiteren Ansatz schlagen Konertz und Schönhof mit einem 
+„erfinderloses Patent“ vor, das es der Person, 
+die das Computersystem nutzt, erlaubt, 
+die Rechte an der durch die Maschine generierten Erfindung zu beanspruchen
+\cite{konertzErfindungenDurchComputer2018}.
+
+\subsection{De lege lata}
+Nach geltendem Recht "de lege lata" ist es in Deutschland und Europa
+derzeit nicht möglich eine KI als Erfinder in Erscheinung treten zu lassen.
+Die Gesetzeslage sieht vor, dass ein Erfinder eine natürliche Person sein muss
+dabei ist es egal, ob eine "schwache KI" oder eine "starke KI" verwendet wurde.
+Als Erfinder tritt dann der Nutzer der KI ein, welcher diese dann offiziell
+als Werkzeug benutzt hat um eine technische Erfindung zu produzieren.
+
+\subsection{De lege ferenda}
+Nach zukünfigem Recht könnte sich einiges tun, die Debatte wird von verschiedenen 
+Instanzen wie dem europäischen Parlament immer wieder aufgenommen und es 
+werden in Zukunft weitere Fälle von Erfindungen folgen die eine klare rechtliche 
+Klärung bedürfen. 
+Bei den bisherigen schwachen KIs ist es noch möglich die KI als Werkzeug
+zu sehen, wobei es dort schon Schwierigkeiten geben könnte, wenn eine KI,
+welche durch einen Genetic Breeding Algorithmus erstellt würde eine Erfindung
+schafft, ohne vorher einen Input bekommen zu haben.
+Ab dem Punkt, wo kein Mensch mehr im Erfindungsprozess beteiligt,
+sondern nur beim Entwicklungsprozess der KI beteiligt ist,
+braucht es auf jeden Fall ein zusätzliches Recht, wie das 
+oben erwähnte spezifische Roboterrecht.
+Starken KIs werden spätestens, eine klare rechtliche Abgrenzung 
+brauchen, 
+da ab diesem Punkt Erfindungen komplett autonom von einer KI erschfaffen werden.
+Dann stellt sich die Frage ob die KI doch als Erfinder auftreten kann 
+und eigene Rechte besitzen darf. Ähnlich wie in dem Entwurf des Europäischen
+Parlaments vom 31.5.2016 mit Empfehlungen an die Kommission zu zivilrechtlichen Regelungen im
+Bereich Robotik \cite{delvauxMitEmpfehlungenKommission}. Dieser schlägt 
+eine Einführung eines eigenen Rechtsstatus 
+für Roboter als "elektronische Personen" vor die Rechte und Pflichten zu haben, 
+ähnlich wie Menschen.
+\\
+\section{Materielle Vorrausetzungen}
+
+Die materiellen Vorraussetungen der Patentanmeldung sind 
+in den Paragraphen §§ 1 – 5 PatG geregelt 
+und lassen sich unterteilen in folgende Punkte:
+
+\begin{enumerate}
+    \item Erfindung auf einem Gebiet der Technik, § 1 Abs. 1 PatG
+    \begin{enumerate}
+    \vspace{-0.05in}
+    \item Ausschluss, §§ Art. 1 Abs. 3 PatG und § 1 Abs. 4 PatG
+    \end{enumerate}
+    \vspace{-0.11in} 
+    \item Neuheit, § 1 Abs. 1 i.V.m. § 3 PatG
+    \vspace{-0.11in} 
+    \item Erfinderische Tätigkeit, § 1 Abs. 1 i.V.m. § 4 PatG
+    \vspace{-0.11in} 
+    \item Gewerbliche Anwendbarkeit, § 1 Abs. 1 i.V.m. § 5 PatG
+    \vspace{-0.11in} 
+    \item Ausschluss, § 2 PatG
+\end{enumerate}
+
+\subsection{Technische Erfindung}
+
+Im ersten Absatz des ersten Paragraphen im Patentgesetz wird festgelegt,
+dass eine Erfindung auf einem Gebiet der Technik liegen muss, neu sein und
+gewerblich anwendbar.
+Eine technische Erfindung liegt laut Haedicke dann vor, 
+wenn die Erfindung aus dem Bereich der Physik, 
+Chemie oder den Ingenieurswissenschaften ist, 
+welche sog. Gebiete der Technik darstellen.
+In den letzen Jahrzehnten hat sich der Begriff 
+"Technik" auch auf Erfindundungen der Biotechnologie, 
+Telekommunikations- und Computertechnologie ausgeweitet 
+\cite{haedickeEinfuhrung2020}
+Der Bundesgerichtshof (BGH) erstellte die
+sog. „Rote-Taube“-Formel, welche technisch als  
+„eine Lehre zum planmäßigen Handeln 
+unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines 
+kausal übersehbaren Erfolgs definiert.“\cite{BGH27031969}  
+Dabei genügt es „wenn die beanspruchte Lehre den Einsatz technischer Geräte umfasst“
+\cite{BGH3020152015}\cite{BGH2420112011a}. 
+Aufgrund der ständigen Entwicklung lässt sich 
+jedoch der Begriff der „technischen Erfindung“ 
+nicht abschließend definieren \cite{haedickeEinfuhrung2020}.
+\\
+In Paragraph 1 Abs. 3 PatG werden Gegenstände und Tätigkeiten festgelegt, 
+die nicht als Erfindung angesehen werden dürfen. 
+Diese sind nicht patentfähig als solche (§ 1 Abs. 4 PatG). 
+Ausgeschlossene Erfindungen sind Entdeckungen, 
+sowie wissenschaftliche Theorien und mathematische Methoden, 
+ästhetische Formschöpfungen, Pläne, Regeln und Verfahren für gedankliche Tätigkeiten, 
+für Spiele 
+oder für geschäftliche Tätigkeiten sowie Programme für Datenverarbeitungsanlagen, 
+sowie die Wiedergabe von Informationen (§. 1 Abs. 3 PatG). 
+\\
+
+\subsubsection{Patentierbarkeit von Computerprogrammen}
+Der Punkt Programme für Datenverarbeitungsanlagen sind grundsätzlich
+von der Patentierbarkeit ausgeschlossen stellt Schwierigkeiten in der 
+Patentierbarkeit von durch künstliche
+Intelligenz geschaffener Computerprogramme dar. 
+Jedoch betrifft der Ausschluss nur Programme "als solche", 
+was bedeutet, 
+dass Computerprogramme in bestimmten Zusammenhängen patentierbar sind, 
+wenn sie eine technische Aufgabe lösen und technische Merkmale aufweisen.
+Beispiele für patentierbare Software sind technische Anwendungsprogramme, 
+die Messergebnisse verarbeiten, 
+technische Einrichtungen überwachen oder in technische Systeme eingreifen
+\cite{redekerSchutzSoftware2023}.
+Bevor Beispiele von patentierbaren Computerprogrammen folgen, ist es
+nötig den Begriff des Computerprogrammes eindeutig zu definieren.
+Ein Computerprogrammm ist laut ISO/IEC 2382-1:1993 
+eine Kombination von Anweisungen und Deklarationen in einer
+Programmiersprache, die einen Computer dazu bringen, 
+Funktionen zur Lösung eines Problems auszuführen 
+\cite{instituteofelectricalandelectronicsengineersinc.ISO47652010}.
+Das in der Programmiersprache geschriebene Programm(Quellprogramm) wird 
+mittels eines Sprachcompilers in ein in Maschinensprache geschriebenes 
+Programm(Objektprogramm) aus Nullen und Einsen umgewandelt \cite{WasIstProgramm}.
+Computerprogramme werden nach dem Wirtschaftslexikon Gabler in Systemprogramme
+und Anwendungsprogramme unterteilt. 
+Ein Anwendungsprogramm löst dabei eine bestimmte Aufgabe des Anwenders, 
+wie z.B. Ticketreservierungen oder Parkraumüberwachung 
+\cite{lackesDefinitionAnwendungsprogramm}. 
+Während ein Systemprogramm ein Bestandteil des Betriebssystems ist und 
+für den Nutzer nicht sichtbare Teile der internen Steuerung des Computer übernimmt,
+wie die Orchestrierung der als nächstes zu bearbeitenden Aufgabe \cite{lackesDefinitionSystemprogramm}.
+Für beide Arten von Programmen gibt es mögliche Ausprägungen, 
+welche patentierbar sein können, so kann ein mögliches Szenario bei einem Anwendungsprogramm sein,
+dass ein Algorithmus entwickelt wurde der in der Branche noch nicht vorhanden ist. Z.B. ein
+Bildverarbeitungsprogramm, das einen neuen Algorithmus verwendet, um Bilder zu verbessern.
+Oder im Falle von Systemprogrammen ein Betriebssystem mit einem 
+innovativen Verfahren zur Erkennung und Verhinderung von Malware.
+\paragraph{Abgrenzung zur Software}
+Ein Begriff der heutzutage oft synonym zu dem Begriff Computerprogramm benutzt wird,
+ist Software. Software ist laut ISO/IEC 2382-1:1993 eine Sammlung von Computerprogrammen, 
+Daten und Bibliotheken und somit ist ein Computerprogramm nur ein Bestandteil einer Software.
+Software verwendet Computerprogramme als Tools um individuelle Anweisungen auszuführen 
+\cite{ComputerProgrammeUnverzichtbareComputerprogramme}.
+Software wird nach dem oben genannten ISO-Standard außerdem in 
+Systemsoftware, Unterstützungssoftware und Anwendungssoftware unterteilt.
+Systemsoftware ist Software, welche die Hardware des Computers steuert, 
+wie z.B. Betriebssysteme oder Gerätetreiber. Unter Unterstützungssoftware 
+fällt Software, die die Entwicklung und Ausführung von Anwendungssoftware
+unterstützt, wie z.B. Compiler oder Texteditoren. Anwendungssoftware ist
+Software, die für die Lösung von Problemen oder die Durchführung von Aufgaben
+entwickelt wurden, wie z.B. Textverarbeitungsprogramme oder Spiele
+\cite{instituteofelectricalandelectronicsengineersinc.ISO47652010}.
+\\
+\paragraph{Urteile mit Bezug auf Patentierbarkeit von Computerprogrammen}
+Es gibt viele Präzendenzfälle in den Computerprogramme patentiert worden sind.
+Das Europäische Patentamt erteilt außerdem Patente auch für technische Umsetzungen.
+Auch wenn eine mathematische Methode keine direkte technische Anwendung hat, 
+kann sie patentierbar sein, 
+wenn sie speziell für eine technische Umsetzung angepasst wurde. 
+Beispiele sind Optimierungen für Hardware-Architekturen, 
+wie die Nutzung von GPUs für maschinelles Lernen \cite{MathematischeMethoden}. 
+Eingehend beschäftigt mit der Thematik haben sich bereits einige Juristen,
+wie z.B. 
+Hon. Prof. Dr. iur. Klaus-J. Melullis
+(Leiter der Forschungsgruppe Patentrecht am Karlsruher Institut für Technologie) und 
+Dr. Matthias Koch (Rechtsanwalt beim BGH)\cite{melullisEPUArt522023} im Zusammenhang 
+mit dem Europäischen Patentübereinkommen 
+oder Prof. Dr. jur. Dr. rer. pol. Jürgen Ensthaler 
+(Lehrstuhlinhaber für Wirtschafts-, Unternehmens - und Technikrecht an der TU Berlin)
+im Zusammenhang mit dem deutschen PatG.
+\cite{ensthalerEnsthalerBegrenzungPatentierung2013}.
+Als Beispiel für ein Computerprogrammpatent auf deutscher 
+Ebene dient die Analyse 
+und Steuerung eines Flugzeugzustands.
+Das hier genutzte Computerprogramm benutzt ein Verfahren, 
+das anhand von Messwerten Erkenntnisse 
+über den Zustand eines Flugzeugs gewinnt und 
+die Funktionsweise eines Systems beeinflusst 
+\cite{BGH3020152015}.
+Hier liegt eine technische Problemlösung vor, 
+da die Methode zur Steuerung eines technischen Systems eingesetzt wird.
+Das Europäische Patentamt hat mit dem Patent EP0005954 
+„Verfahren und Vorrichtung zur verbesserten digitalen Bildverarbeitung“ 
+einen entscheidenden Meilenstein gesetzt, 
+der den Weg für die Patentierbarkeit mathematischer Methoden und 
+Computerprogramme geebnet hat.
+Das hier aufgeführte Computerprogramm ist ein 
+Verfahren zur digitalen Bildverarbeitung \cite{EPThisFile}.
+Der technische Charakter liegt in der Verbesserung 
+der Bildqualität durch ein spezielles Filterverfahren.
+\\
+Die bloße Implementierung einer Rechenmethode auf einem Computer 
+verleiht ihr noch keinen technischen Charakter. 
+Entscheidend ist die konkrete Anwendung der Methode 
+in einem technischen Zusammenhang, der einen unmittelbaren Effekt in der 
+physischen Welt erzeugt \cite{melullisEPUArt522023}.
+So sind mehrere Patente abgelehnt worden,
+wie, Verfahrenen, 
+die lediglich der Auswertung von Daten auf statistischer Basis dienen.
+Dies war der Fall bei den Beschlüssen 17 W (pat) 74/07\cite{BPatG10012012}
+und 17 W (pat) 6/00 \cite{BPatG01032001} vom Bundespatentgericht.
+Das EPA sieht Verfahren zum Sammeln und Auswerten von Daten 
+im Rahmen von betriebswirtschaftlichen Prozessen als nicht patentfähig an 
+(siehe T 154/04 \cite{EuropaischesPatentamt152006}),
+da sie kein technisches Problem lösen.
+\\
+Nach dieser Definition von Computerprogrammen und der Klärung von dem Begriff
+"Technik" kann nun eine Abschätzung getroffen werden, 
+ab wann Computerprogramme patentierbar sind. 
+Durch die verschiedenen Urteile wird außerdem sichtbar 
+ab wann ein Computerprogramm als technisch angesehen wird.
+Jedoch bleibt die Patentierbarkeit von Computerprogrammen 
+ein komplexes und umstrittenes Thema 
+und internationale Standards könnten 
+langfristig mehr Klarheit und Konsistenz schaffen.
+Viele Computerprogrammpatente wurden erst abgelehnt und erst nach 
+einer Beschwerde und erneuter Prüfung erteilt.
+Wege um das Patentgesetz dahingehend zu vereinfachen schlägt 
+Prof. Dr. jur. Dr. rer. pol. Jürgen Ensthaler vor. 
+Eine mögliche Lösung wäre, die „als solche“-Formel durch eine Regelung zu ersetzen, 
+wie sie für Gensequenzen in § 1a PatG besteht. 
+Demnach könnten Algorithmen nur dann patentiert werden, 
+wenn die konkrete technische Funktion klar benannt 
+und in den Patentanspruch aufgenommen wird. 
+Diese Funktionsbegrenzung würde verhindern, 
+dass abstrakte mathematische Lehren, 
+die für viele Anwendungen nutzbar sind, patentiert werden 
+\cite{ensthalerEnsthalerBegrenzungPatentierung2013}. 
+
+
+
+
+
+
+
 
 \subsubsection{Neuheit}
+Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört. 
+Der Stand der Technik umfasst alle Kenntnisse, 
+die vor dem für den Zeitrang der Anmeldung
+maßgeblichen Tag durch schriftliche 
+oder mündliche Beschreibung, durch Benutzung oder in
+sonstiger Weise der Öffentlichkeit zugänglich gemacht worden sind (§ 3 Abs. 1 PatG).
+Als Stand der Technik gilt auch der Inhalt nationaler Patentanmeldungen 
+in der beim Deutschen
+Patentamt ursprünglich eingereichten Fassung mit älterem Zeitrang, 
+die erst an oder nach dem für
+den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der Öffentlichkeit 
+zugänglich gemacht
+worden sind (§ 3 Abs. 2 Nr. 1 PatG). 
+Paragraph 3 Abs. 3 und 4 PatG befassen sich mit Stoffen und Stoffgemischen. 
+Für die Anwendung von § 3 Abs. 1 und Abs. 2 PatG bleibt 
+eine Offenbarung der Erfindung außer Betracht, 
+wenn sie nicht früher als sechs Monate vor Einreichung der Anmeldung erfolgt ist und
+unmittelbar oder mittelbar zurückgeht 
+auf einen offensichtlichen Missbrauch zum Nachteil des
+Anmelders oder seines Rechtsvorgängers (§ 3 Abs. 5 Nr. 1 PatG).
+Im Kontext von KI stellt sich hier die Frage ob eine Erfindung überhaupt neu ist,
+da sie meist aus der Analyse großer Datenmengen besteht. Wenn nur 
+bestehende Muster im Stand der Technik kombiniert werden 
+und so bekannte Informationen neu geordnet ist dies nicht neuartig.
+Außerdem muss für eine Beurteilung der Neuheit ein gewisses Maß an 
+Nachvollziehbarkeit bestehen, 
+um zu Wissen wie die KI auf ihr Ergebnis kam um genau die nicht neuartige 
+Kombination von Informationen zu erkennen.
 
+
+
+
+Insgesamt ist die Bewertung der Neuheit von KI-generierten Erfindungen 
+stark von der juristischen Auslegung abhängig. 
+Solange der Beitrag der KI nicht klar und nachvollziehbar ist, 
+bleibt es schwierig, 
+Erfindungen von KI als neuartig im patentrechtlichen Sinne zu betrachten.
+\\
 \subsubsection{Erfinderische Tätigkeit}
+Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, wenn sie sich für den Fachmann
+nicht in naheliegender Weise aus dem Stand der Technik ergibt (§ 4 S. 1 PatG). Gehören zum Stand
+der Technik auch Unterlagen im Sinne des § 3 Abs. 2 PatG, so werden diese bei der Beurteilung der
+erfinderischen Tätigkeit nicht in Betracht gezogen (§ 4 S. 2 PatG).
+\\
+Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen
+Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann (§ 5 PatG).
+\\
+Ausschluss der Patentierbarkeit besteht bei Sittenwidrigkeit (§ 2 Abs. 1 HS. 1 PatG), 
+bei Verfahren zum Klonen menschlichen Lebewesen (§ 2 Abs. 2 S 1 Nr. 2, S. 2 PatG i.V.m. ESchG), 
+bei Verwendung menschlichen Embryonen zu industriellen 
+oder kommerziellen Zwecken (§ 2 Abs. 2 S 1 Nr. 3 PatG i.V.m. ESchG). In Paragraph § 2 Abs. 2 S 1 Nr. 1 PatG wird der Ausschluss in Verbindung mit Tieren behandelt.
 
-
-\subsection{Formelle Vorraussetzungen\label{sec:forvor}}
-Explain the source of the requirements. 
-
-Example: The requirements for an X have been widely investigated by Organization Y. 
-
-In his paper about Z, Mister X outlines the following requirements for a Component X.
+\section{Exkurs: Urheberrecht\label{sec:urh}}
+\section{Exkurs: Internationales Patentrecht\label{sec:urh}}
 

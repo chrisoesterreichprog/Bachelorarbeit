@@ -1,71 +1,17 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: Abschlussarbeit.aux
-A level-1 auxiliary file: ./misc/titlepage.aux
-A level-1 auxiliary file: ./misc/self-assertion.aux
-A level-1 auxiliary file: ./misc/abstract.aux
-A level-1 auxiliary file: ./misc/abstract_de.aux
-The style file: geralpha.bst
-Database file #1: ./bib/manual.bib
-Warning--to sort, need author or key in ChatGPT
-Warning--to sort, need author or key in NumberChatGPTUsers2023
-Warning--to sort, need author or key in WasIstKuenstliche
-Warning--to sort, need author or key in DPMAPatentschutz
-Warning--to sort, need author or key in PatGNichtamtlichesInhaltsverzeichnis
-Warning--to sort, need author or key in BGH27031969
-Warning--to sort, need author or key in BGH3020152015
-Warning--to sort, need author or key in BGH2420112011
-Warning--to sort, need author or key in WasIstKuenstliche2021
-Warning--to sort, need author or key in WhatAIBasica
-Warning--to sort, need author or key in WasIstKuenstliche2020
-Warning--to sort, need author or key in WasIstStarke2023
-Warning--to sort, need author or key in WasIstGenerative
-Warning--to sort, need author or key in WasIstDeep2023
-Warning--to sort, need author or key in KuenstlicheIntelligenz
-Warning--to sort, need author or key in WasSindKonvolutionale2021
-Warning--to sort, need author or key in WasSindRekurrente2023
-Warning--to sort, need author or key in KuenstlicheIntelligenzKI
-Warning--to sort, need author or key in WasIstProgramm
-Warning--to sort, need author or key in ComputerProgrammeUnverzichtbareComputerprogramme
-You've used 26 entries,
-            2768 wiz_defined-function locations,
-            737 strings with 9521 characters,
-and the built_in function-call counts, 6282 in all, are:
-= -- 631
-> -- 68
-< -- 6
-+ -- 19
-- -- 12
-* -- 366
-:= -- 749
-add.period$ -- 47
-call.type$ -- 26
-change.case$ -- 84
-chr.to.int$ -- 19
-cite$ -- 66
-duplicate$ -- 300
-empty$ -- 743
-format.name$ -- 24
-if$ -- 1504
-int.to.chr$ -- 8
-int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 102
-num.names$ -- 18
-pop$ -- 241
-preamble$ -- 1
-purify$ -- 136
-quote$ -- 0
-skip$ -- 326
-stack$ -- 0
-substring$ -- 202
-swap$ -- 57
-text.length$ -- 6
-text.prefix$ -- 6
-top$ -- 0
-type$ -- 208
-warning$ -- 20
-while$ -- 12
-width$ -- 29
-write$ -- 244
-(There were 20 warnings)
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Abschlussarbeit.blg'
+[67] biber-darwin:340> INFO - === Fri Aug 23, 2024, 17:14:41
+[80] Biber.pm:418> INFO - Reading 'Abschlussarbeit.bcf'
+[181] Biber.pm:972> INFO - Found 44 citekeys in bib section 0
+[194] Biber.pm:4383> INFO - Processing section 0
+[204] Biber.pm:4574> INFO - Looking for bibtex file './bib/manual.bib' for section 0
+[208] bibtex.pm:1713> INFO - LaTeX decoding ...
+[286] bibtex.pm:1518> INFO - Found BibTeX data source './bib/manual.bib'
+[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[408] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[408] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[427] bbl.pm:654> INFO - Writing 'Abschlussarbeit.bbl' with encoding 'UTF-8'
+[437] bbl.pm:757> INFO - Output to Abschlussarbeit.bbl
+[437] Biber.pm:130> WARN - I didn't find a database entry for 'redekerSchutzSoftware2023' (section 0)
+[437] Biber.pm:132> INFO - WARNINGS: 1
