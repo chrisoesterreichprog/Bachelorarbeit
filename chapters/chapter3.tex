@@ -174,6 +174,8 @@ eine Einführung eines eigenen Rechtsstatus
 für Roboter als "elektronische Personen" vor die Rechte und Pflichten zu haben, 
 ähnlich wie Menschen.
 \\
+\section{Exkurs: Internationales Patentrecht\label{sec:intp}}
+\todo{exkurs1}
 \section{Materielle Vorrausetzungen}
 
 Die materiellen Vorraussetungen der Patentanmeldung sind 
@@ -359,8 +361,8 @@ Diese Funktionsbegrenzung würde verhindern,
 dass abstrakte mathematische Lehren, 
 die für viele Anwendungen nutzbar sind, patentiert werden 
 \cite{ensthalerEnsthalerBegrenzungPatentierung2013}. 
-
-
+\section{Exkurs: Urheberrecht\label{sec:urh}}
+\todo{exkurs2}
 
 
 
@@ -381,45 +383,85 @@ die erst an oder nach dem für
 den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der Öffentlichkeit 
 zugänglich gemacht
 worden sind (§ 3 Abs. 2 Nr. 1 PatG). 
-Paragraph 3 Abs. 3 und 4 PatG befassen sich mit Stoffen und Stoffgemischen. 
-Für die Anwendung von § 3 Abs. 1 und Abs. 2 PatG bleibt 
-eine Offenbarung der Erfindung außer Betracht, 
-wenn sie nicht früher als sechs Monate vor Einreichung der Anmeldung erfolgt ist und
-unmittelbar oder mittelbar zurückgeht 
-auf einen offensichtlichen Missbrauch zum Nachteil des
-Anmelders oder seines Rechtsvorgängers (§ 3 Abs. 5 Nr. 1 PatG).
-Im Kontext von KI stellt sich hier die Frage ob eine Erfindung überhaupt neu ist,
-da sie meist aus der Analyse großer Datenmengen besteht. Wenn nur 
-bestehende Muster im Stand der Technik kombiniert werden 
-und so bekannte Informationen neu geordnet ist dies nicht neuartig.
-Außerdem muss für eine Beurteilung der Neuheit ein gewisses Maß an 
-Nachvollziehbarkeit bestehen, 
-um zu Wissen wie die KI auf ihr Ergebnis kam um genau die nicht neuartige 
-Kombination von Informationen zu erkennen.
+Bei KI-generierten Erfindungen kann es schwierig sein, 
+den Stand der Technik umfassend zu bestimmen. 
+KI-Modelle können auf umfangreiche Daten zugreifen und Lösungen generieren, 
+die in kleinen Teilen bereits veröffentlicht, 
+aber in dieser spezifischen Kombination noch nicht dokumentiert sind.
+Im Kontext von KI stellt sich hier die Frage 
+ob eine Erfindung überhaupt als neuartig angesehen werden kann, 
+da KI basierte Erfindungen meist aus der Analyse großer Datenmengen bestehen
+und der Generierung von Output aus diesen. 
+Es werden nur bestehende Muster im Stand der Technik kombiniert 
+und so nur durch Kombination aus anderen konkreten technischen Lösungen, 
+welche bereits in irgendeiner Form öffentlich zugänglich waren ein neue generiert.
+Eine Kombination bekannter technischer Lösungen kann als „neu“ angesehen werden,
+wenn genau diese spezifische Kombination zuvor nicht offengelegt wurde, 
+eine neu Ordnung von Informationen stellt jedoch keine Neuheit dar.
+Dabei stellt sich jedoch die Frage ob die Kombination naheliegend und
+somit keine erfinderische Höhe aufweist.
 
+\subsubsection{Erfinderische Tätigkeit}
+Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, 
+wenn sie sich für den Fachmann
+nicht in naheliegender Weise aus dem Stand der Technik ergibt (§ 4 S. 1 PatG). 
+Gehören zum Stand
+der Technik auch Unterlagen im Sinne des § 3 Abs. 2 PatG, 
+so werden diese bei der Beurteilung der
+erfinderischen Tätigkeit nicht in Betracht gezogen (§ 4 S. 2 PatG).
+In vielen Fällen agiert die KI als eine Art „Black Box“, 
+bei der die Inputs vom Menschen bereitgestellt werden, 
+die endgültigen Outputs jedoch nicht vollständig nachvollziehbar sind 
+\cite{pauliniKIgenerierteErfindungPatentrechtliche}. 
+Um die erfinderische Tätigkeit sinnvoll beurteilen zu können
+muss klar sein, wie die KI zu ihrem Ergebnis kam. 
+Wenn der Output für den Fachmann nicht aus dem bereits bekannten 
+ableitbar ist, ist eigentlich eine erfinderische Tätigkeit gegeben.
+Jedoch ist die erfinderische Tätigkeit so leicht zu reproduzieren,
+dass eine erfinderische Höhe als fraglich angesehen werden kann.
+Somit stellt sich die Frage: 
 
+Ist nun auch dem Stand der Technik zugehörig alles was durch eine KI aus dem 
+Stand der Technik hergeleitet werden kann? 
 
+Dr. Joel Nägerl, Dr. Benedikt Neuburger und Dr. Frank Steinbach beschäftigen
+sich mit dieser Thematik und kommen zu dem Schluss,
+dass der Fachmann, der Beurteilungen vornimmt, 
+in Zukunft KI-gestützte Systeme als „Lesebrille“ verwenden könnte.
+Dies könnte dazu führen, dass Erfindungen, 
+die heute noch mit einer erfinderischen Tätigkeit bewertet werden, 
+in der Zukunft als naheliegend betrachtet und somit nicht patentierbar wären.
+Dabei ist jedoch entscheidend, 
+dass nur solche KI-Systeme herangezogen werden dürfen, 
+die zum Zeitpunkt der Patentanmeldung verfügbar und gängig sind. 
+Es ist unzulässig, den Bewertungsmaßstab durch die nachträgliche Nutzung 
+einer später entwickelten, leistungsstärkeren KI zu erhöhen 
+\cite{nagerlKunstlicheIntelligenzParadigmenwechsel2019}.
 
-Insgesamt ist die Bewertung der Neuheit von KI-generierten Erfindungen 
-stark von der juristischen Auslegung abhängig. 
+Insgesamt ist die Bewertung der erfinderischen Tätigkeit
+von KI-generierten Erfindungen derzeit stark von der juristischen Auslegung abhängig. 
 Solange der Beitrag der KI nicht klar und nachvollziehbar ist, 
 bleibt es schwierig, 
-Erfindungen von KI als neuartig im patentrechtlichen Sinne zu betrachten.
+die erfinderische Tätigkeit von KI-Erfindungen 
+im patentrechtlichen Sinne zu bewerten.
+Die Gesetzeslage könnte sich dem entsprend weiterentwickeln, 
+die Reichweite 
+vom Stand der Technik auf den Entwicklungshorizont von KI auszuweiten.
+Dies ist bei dem derzeitigen Stand von KI durchaus sinnvoll,
+jedoch ab der ersten starken KI vollkommen hinfällig.
 \\
-\subsubsection{Erfinderische Tätigkeit}
-Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, wenn sie sich für den Fachmann
-nicht in naheliegender Weise aus dem Stand der Technik ergibt (§ 4 S. 1 PatG). Gehören zum Stand
-der Technik auch Unterlagen im Sinne des § 3 Abs. 2 PatG, so werden diese bei der Beurteilung der
-erfinderischen Tätigkeit nicht in Betracht gezogen (§ 4 S. 2 PatG).
+\subsubsection{Gewerbliche Anwendbarkeit}
 \\
-Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen
-Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann (§ 5 PatG).
+Eine Erfindung gilt als gewerblich anwendbar, 
+wenn ihr Gegenstand auf irgendeinem gewerblichen
+Gebiet einschließlich der Landwirtschaft hergestellt 
+oder benutzt werden kann (§ 5 PatG).
+Das Erfindungen, 
+welche mit/durch KI entstanden sind gewerblich anwendbar sind ist durchaus möglich.
+KI-Systeme wie AlphaFold von DeepMind haben Fortschritte 
+in der Medikamentenforschung ermöglicht, 
+indem sie die 3D-Struktur von Proteinen präzise vorhersagen \cite{AlphaFold2024}.
 \\
-Ausschluss der Patentierbarkeit besteht bei Sittenwidrigkeit (§ 2 Abs. 1 HS. 1 PatG), 
-bei Verfahren zum Klonen menschlichen Lebewesen (§ 2 Abs. 2 S 1 Nr. 2, S. 2 PatG i.V.m. ESchG), 
-bei Verwendung menschlichen Embryonen zu industriellen 
-oder kommerziellen Zwecken (§ 2 Abs. 2 S 1 Nr. 3 PatG i.V.m. ESchG). In Paragraph § 2 Abs. 2 S 1 Nr. 1 PatG wird der Ausschluss in Verbindung mit Tieren behandelt.
 
-\section{Exkurs: Urheberrecht\label{sec:urh}}
-\section{Exkurs: Internationales Patentrecht\label{sec:urh}}
+
 

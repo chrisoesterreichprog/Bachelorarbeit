@@ -23,15 +23,16 @@
 \contentsline {subsection}{\numberline {3.2.1}KI als Erfinder}{12}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}De lege lata}{13}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}De lege ferenda}{13}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Materielle Vorrausetzungen}{14}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Technische Erfindung}{14}{subsection.3.3.1}%
-\contentsline {subsubsection}{\nonumberline Patentierbarkeit von Computerprogrammen}{14}{subsubsection*.19}%
-\contentsline {paragraph}{\nonumberline Abgrenzung zur Software}{15}{paragraph*.21}%
-\contentsline {paragraph}{\nonumberline Urteile mit Bezug auf Patentierbarkeit von Computerprogrammen}{15}{paragraph*.23}%
-\contentsline {subsubsection}{\nonumberline Neuheit}{17}{subsubsection*.25}%
-\contentsline {subsubsection}{\nonumberline Erfinderische Tätigkeit}{17}{subsubsection*.27}%
-\contentsline {section}{\numberline {3.4}Exkurs: Urheberrecht}{18}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Exkurs: Internationales Patentrecht}{18}{section.3.5}%
+\contentsline {section}{\numberline {3.3}Exkurs: Internationales Patentrecht}{14}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Materielle Vorrausetzungen}{14}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Technische Erfindung}{14}{subsection.3.4.1}%
+\contentsline {subsubsection}{\nonumberline Patentierbarkeit von Computerprogrammen}{15}{subsubsection*.20}%
+\contentsline {paragraph}{\nonumberline Abgrenzung zur Software}{15}{paragraph*.22}%
+\contentsline {paragraph}{\nonumberline Urteile mit Bezug auf Patentierbarkeit von Computerprogrammen}{16}{paragraph*.24}%
+\contentsline {section}{\numberline {3.5}Exkurs: Urheberrecht}{17}{section.3.5}%
+\contentsline {subsubsection}{\nonumberline Neuheit}{17}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Erfinderische Tätigkeit}{17}{subsubsection*.29}%
+\contentsline {subsubsection}{\nonumberline Gewerbliche Anwendbarkeit}{18}{subsubsection*.31}%
 \contentsline {chapter}{\numberline {4}Hypothetischer Patentantrag}{19}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Entwicklungsumgebung}{19}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Project Structure}{19}{section.4.2}%
@@ -47,6 +48,6 @@
 \contentsline {section}{\numberline {6.1}Zusammenfassung}{23}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Problems Encountered}{23}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Ausblick}{23}{section.6.3}%
-\contentsline {chapter}{\nonumberline Akronymverzeichnis}{25}{chapter*.29}%
-\contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.30}%
+\contentsline {chapter}{\nonumberline Akronymverzeichnis}{25}{chapter*.33}%
+\contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.34}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

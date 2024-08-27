@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.24)  23 AUG 2024 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.24)  27 AUG 2024 15:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,11 +870,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count450
 \@quotereset=\count451
-(./Abschlussarbeit.aux (./misc/titlepage.aux) (./misc/self-assertion.aux) (./misc/abstract.aux) (./misc/abstract_de.aux)
-
-LaTeX Warning: Label `sec:urh' multiply defined.
-
-)
+No file Abschlussarbeit.aux.
 \openout1 = `Abschlussarbeit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -898,7 +894,6 @@ LaTeX Font Info:    ... okay on input line 35.
 Package scrbase Info: activating english \contentsname on input line 35.
 Package scrbase Info: activating english \listfigurename on input line 35.
 Package scrbase Info: activating english \listtablename on input line 35.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -968,7 +963,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
- (./Abschlussarbeit.out) (./Abschlussarbeit.out)
 \@outlinefile=\write5
 \openout5 = `Abschlussarbeit.out'.
 
@@ -1079,31 +1073,31 @@ Package pdftex.def Info: ./img//tu_logo-eps-converted-to.pdf  used on input line
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 50.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (./Abschlussarbeit.toc
+)
+\tf@toc=\write6
+\openout6 = `Abschlussarbeit.toc'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <10.95> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 51.
  [7
 
 
 
-])
-\tf@toc=\write6
-\openout6 = `Abschlussarbeit.toc'.
+] [8
 
- [8] (./Abschlussarbeit.lof)
+]
 \tf@lof=\write7
 \openout7 = `Abschlussarbeit.lof'.
 
  [9
 
-
 ] [10
 
-] (./Abschlussarbeit.lot)
+]
 \tf@lot=\write8
 \openout8 = `Abschlussarbeit.lot'.
 
@@ -1118,14 +1112,31 @@ chapter 1.
 
 
 ] [2]
-<img/Patentrecht Übersicht.pdf, id=176, 1961.3977pt x 1155.75784pt>
+
+LaTeX Warning: Reference `fig:patentrecht' on page 3 undefined on input line 130.
+
+<img/Patentrecht Übersicht.pdf, id=94, 1961.3977pt x 1155.75784pt>
 File: img/Patentrecht Übersicht.pdf Graphic file (type pdf)
 <use img/Patentrecht Übersicht.pdf>
 Package pdftex.def Info: img/Patentrecht Übersicht.pdf  used on input line 135.
 (pdftex.def)             Requested size: 418.25368pt x 246.45502pt.
 
+LaTeX Warning: Reference `cha:chapter2' on page 3 undefined on input line 142.
+
+
+LaTeX Warning: Reference `cha:chapter3' on page 3 undefined on input line 152.
+
 
 LaTeX Warning: Reference `cha:chapter4' on page 3 undefined on input line 163.
+
+
+LaTeX Warning: Reference `cha:chapter5' on page 3 undefined on input line 173.
+
+
+LaTeX Warning: Reference `cha:chapter6' on page 3 undefined on input line 182.
+
+
+LaTeX Warning: Reference `cha:chapter7' on page 3 undefined on input line 190.
 
 ) (./chapters/chapter2.tex [3]
 Underfull \vbox (badness 1442) has occurred while \output is active []
@@ -1135,28 +1146,50 @@ Underfull \vbox (badness 1442) has occurred while \output is active []
 ]
 chapter 2.
 [7]
-<img/NeuralNetwork.pdf, id=235, 845.1575pt x 597.23125pt>
+
+LaTeX Warning: Reference `fig:NN' on page 8 undefined on input line 85.
+
+
+LaTeX Warning: Reference `fig:NN' on page 8 undefined on input line 104.
+
+<img/NeuralNetwork.pdf, id=151, 845.1575pt x 597.23125pt>
 File: img/NeuralNetwork.pdf Graphic file (type pdf)
 <use img/NeuralNetwork.pdf>
 Package pdftex.def Info: img/NeuralNetwork.pdf  used on input line 117.
 (pdftex.def)             Requested size: 418.25368pt x 295.56203pt.
- [8] [9 <./img/NeuralNetwork.pdf>] [10]) (./chapters/chapter3.tex
+[8] [9 <./img/NeuralNetwork.pdf>] [10]) (./chapters/chapter3.tex
 chapter 3.
 [11
 
 ] [12] [13]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 178.
 
-LaTeX Warning: Citation 'redekerSchutzSoftware2023' on page 14 undefined on input line 246.
+
+LaTeX Warning: Citation 'redekerSchutzSoftware2023' on page 14 undefined on input line 248.
 
 [14] [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]) (./chapters/chapter5.tex
-Underfull \vbox (badness 3375) has occurred while \output is active []
+ [16] [17]
 
- [17] [18]
+./chapters/chapter3.tex:455: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 E
+       ine Erfindung gilt als gewerblich anwendbar,
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (./chapters/chapter5.tex [18]
 chapter 4.
-<./img//screenshot_2_projects.png, id=385, 401.5pt x 172.645pt>
+
+LaTeX Warning: Reference `fig:projects' on page 19 undefined on input line 22.
+
+<./img//screenshot_2_projects.png, id=325, 401.5pt x 172.645pt>
 File: ./img//screenshot_2_projects.png Graphic file (type png)
 <use ./img//screenshot_2_projects.png>
 Package pdftex.def Info: ./img//screenshot_2_projects.png  used on input line 26.
@@ -1192,27 +1225,38 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `Abschlussarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `Abschlussarbeit.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Abschlussarbeit.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Abschlussarbeit
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Abschlussarbeit.run.xml'.
 \openout1 = `Abschlussarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37215 strings out of 478268
- 751049 string characters out of 5846347
- 1618236 words of memory out of 5000000
- 54663 multiletter control sequences out of 15000+600000
+ 37314 strings out of 478268
+ 753784 string characters out of 5846347
+ 1603149 words of memory out of 5000000
+ 54775 multiletter control sequences out of 15000+600000
  483254 words of font info for 53 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 108i,19n,106p,10657b,3174s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,19n,106p,10657b,2455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Abschlussarbeit.pdf (41 pages, 713740 bytes).
+Output written on Abschlussarbeit.pdf (41 pages, 710409 bytes).
 PDF statistics:
- 680 PDF objects out of 1000 (max. 8388607)
- 594 compressed objects within 6 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 640 PDF objects out of 1000 (max. 8388607)
+ 554 compressed objects within 6 object streams
+ 182 named destinations out of 1000 (max. 500000)
  345 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -20,8 +20,8 @@
 \refsection{0}
   \datalist[entry]{none/global//global/global}
     \entry{ChatGPT}{misc}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{abstract}{A conversational AI system that listens, learns, and challenges}
       \field{howpublished}{https://chatgpt.com}
@@ -37,8 +37,8 @@
       \keyw{1 Einleitung}
     \endentry
     \entry{NumberChatGPTUsers2023}{misc}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{abstract}{Statistics and growth data related to the number of ChatGPT users.}
       \field{howpublished}{https://explodingtopics.com/blog/chatgpt-users}
@@ -57,8 +57,8 @@
       \keyw{1 Einleitung}
     \endentry
     \entry{WasIstKuenstliche}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Erfahren Sie, wie künstliche Intelligenz und KI-Technologien die Geschäftsprozesse verändern und Unternehmen widerstands- und wettbewerbsfähiger machen.}
       \field{howpublished}{https://www.sap.com/germany/products/artificial-intelligence/what-is-artificial-intelligence.html}
@@ -75,8 +75,8 @@
       \endverb
     \endentry
     \entry{DPMAPatentschutz}{misc}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{abstract}{Patentschutz - Schutz für Ihre technischen Erfindungen - Patente erleichtern unternehmerische Entscheidungen - Bedeutung für Technologie-Transfer - Erfindung ist 20 Jahre geschützt - Grenzüberschreitender Schutz möglich - Erfindungen lizenzieren - Gebrauchsmuster - die schnelle Alternative zum Patent - Den Stand der Technik überblicken - Weitere Informationen}
       \field{howpublished}{https://www.dpma.de/patente/patentschutz/index.html}
@@ -93,8 +93,8 @@
       \keyw{1 Einleitung,2.1 Patentgesetz Def}
     \endentry
     \entry{WasIstKuenstliche2021}{misc}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Künstliche Intelligenz (KI) ist eine Technologie, die es Computern und digitalen Geräten ermöglicht, zu lernen, zu lesen, zu schreiben, zu kreieren und zu analysieren.}
       \field{howpublished}{https://www.ibm.com/de-de/topics/artificial-intelligence}
@@ -110,8 +110,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WhatAIBasica}{misc}{}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{howpublished}{http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html}
       \field{title}{What Is {{AI}}? / {{Basic Questions}}}
@@ -125,8 +125,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WasIstKuenstliche2020}{misc}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz (KI) gilt als ,,zukunftsweisende Technologie``. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{howpublished}{https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt}
@@ -158,8 +158,8 @@
       \strng{authorbibnamehash}{4aee997b78b1bdbd637734fc425ed029}
       \strng{authornamehash}{4aee997b78b1bdbd637734fc425ed029}
       \strng{authorfullhash}{4aee997b78b1bdbd637734fc425ed029}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ist mehr als ein gehyptes Buzzword. KI bestimmt den Alltag und hält Einzug in Unternehmen. Praxisbeispiele, Use Cases \& mehr.}
@@ -176,8 +176,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WasIstStarke2023}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Erfahren Sie mehr über die starke KI, eine theoretische Form der KI, die menschliche Eigenschaften und Fähigkeiten wie Vernunft, Planung und Problemlösung repliziert.}
       \field{howpublished}{https://www.ibm.com/de-de/topics/strong-ai}
@@ -628,8 +628,8 @@
       \strng{authorbibnamehash}{48cabb6dc57e254931e94ba286b81385}
       \strng{authornamehash}{48cabb6dc57e254931e94ba286b81385}
       \strng{authorfullhash}{48cabb6dc57e254931e94ba286b81385}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{ngerman}
@@ -822,8 +822,8 @@
       \strng{authornamehash}{60547c6eb8f55ed54128643c6154c7ec}
       \strng{authorfullhash}{60547c6eb8f55ed54128643c6154c7ec}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Was ist "Systemprogramm"? Definition im Gabler Wirtschaftslexikon vollständig und kostenfrei online. \ding{51}Geprüftes Wissen beim Original.}
@@ -969,8 +969,8 @@
       \endverb
     \endentry
     \entry{BPatG01032001}{misc}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{month}{3}
       \field{number}{BPATG Aktenzeichen 17 W (pat) 6/00}
@@ -996,6 +996,90 @@
       \range{pages}{9}
       \verb{file}
       \verb /Users/chrisoesterreich/Zotero/storage/XTP3JFDM/Dokument.html
+      \endverb
+    \endentry
+    \entry{pauliniKIgenerierteErfindungPatentrechtliche}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9e5072ff611aafcb183377d1166c86df}{%
+           family={Paulini},
+           familyi={P\bibinitperiod},
+           given={Oskar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{fullhash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{bibnamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authorbibnamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authornamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authorfullhash}{9e5072ff611aafcb183377d1166c86df}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{ngerman}
+      \field{title}{{Die KI-generierte Erfindung - Die patentrechtliche Zuordnung technischer Leistungen im Zeitalter künstlicher Intelligenz}}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/5ZWGE6I8/Paulini - Die KI-generierte Erfindung - Die patentrechtliche.pdf
+      \endverb
+    \endentry
+    \entry{nagerlKunstlicheIntelligenzParadigmenwechsel2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0b714862618998be5e32b8bc98f8559c}{%
+           family={Nägerl},
+           familyi={N\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e7edd4b88793e4b673f126e9e60f9ae}{%
+           family={Neuburger},
+           familyi={N\bibinitperiod},
+           given={Benedikt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e642dfbc4507b260cc2e8be5878ad224}{%
+           family={Steinbach},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8545fb381355f3070a0f56dfde915ed4}
+      \strng{fullhash}{8545fb381355f3070a0f56dfde915ed4}
+      \strng{bibnamehash}{8545fb381355f3070a0f56dfde915ed4}
+      \strng{authorbibnamehash}{8545fb381355f3070a0f56dfde915ed4}
+      \strng{authornamehash}{8545fb381355f3070a0f56dfde915ed4}
+      \strng{authorfullhash}{8545fb381355f3070a0f56dfde915ed4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Künstliche Intelligenz (KI) wird auf das Wirtschaftsleben weitreichende Auswirkungen haben, die auch das Patentwesen in seinem Kern berühren werden. Dazu gehören nach Ansicht der Autoren unmittelbare Folgen für das Verständnis der im Patentrecht zentralen Rechtskonstrukte wie zum Beispiel betreffend den Fachmann, sein Fachwissen, den Offenbarungsgehalt und die Erfinderschaft sowie die Bewertung der Neuheit, der erfinderischen Tätigkeit und der Ausführbarkeit. Im Folgenden wird überblicksartig aufgezeigt, mit welchen Änderungen der Patentinhaber beim Anmelden und Durchsetzen von Patenten zu rechnen hat.}
+      \field{journaltitle}{Gewerblicher Rechtsschutz und Urheberrecht}
+      \field{number}{4}
+      \field{shorttitle}{Künstliche {{Intelligenz}}}
+      \field{title}{Künstliche {{Intelligenz}}: {{Paradigmenwechsel}} Im {{Patentsystem}}}
+      \field{year}{2019}
+      \field{pages}{336\bibrangedash 341}
+      \range{pages}{6}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/QI33GIEU/Dokument.html
+      \endverb
+      \keyw{3.2 KI als Erfinder}
+    \endentry
+    \entry{AlphaFold2024}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Breakthrough AI system accurately predicts the 3D models of protein structures --- and accelerates research in nearly every field of biology.}
+      \field{howpublished}{https://deepmind.google/technologies/alphafold/}
+      \field{journaltitle}{Google DeepMind}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{{{AlphaFold}}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/MIXQCG9C/alphafold.html
       \endverb
     \endentry
   \enddatalist
