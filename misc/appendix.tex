@@ -1,0 +1,24 @@
+\appendix
+\chapter{Appendix}
+\section*{Beschreibung der Erfindung \ref{beschPDF}}
+\section*{Schutzansprüche \ref{schutzPDF}}
+\section*{Zusammenfassung \ref{zusammenfassungPDF}}
+\pagestyle{plain}
+\centering
+% Add the entry to the ToC for "Beschreibung der Erfindung"
+\phantomsection
+\addcontentsline{toc}{section}{Beschreibung der Erfindung}
+\label{beschPDF} 
+\includepdf[pages={1-3},pagecommand={\thispagestyle{empty}},offset=0 -2cm]{Beschreibung der Erfindung.pdf}
+% Add the entry to the ToC for "Schutzansprueche"
+\phantomsection
+\addcontentsline{toc}{section}{Schutzansprüche}
+\label{schutzPDF} 
+\includepdf[pages={1-2},pagecommand={\thispagestyle{empty}},offset=0 -2cm]{Schutzansprueche.pdf}
+
+% Add the entry to the ToC for "Zusammenfassung"
+\phantomsection
+\addcontentsline{toc}{section}{Zusammenfassung}
+\label{zusammenfassungPDF}  
+\includepdf[pages={1},pagecommand={\thispagestyle{empty}},offset=0 -2cm]{Zusammenfassung.pdf}
+

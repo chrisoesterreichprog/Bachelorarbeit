@@ -20,8 +20,8 @@
 \refsection{0}
   \datalist[entry]{none/global//global/global}
     \entry{ChatGPT}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{abstract}{A conversational AI system that listens, learns, and challenges}
       \field{howpublished}{https://chatgpt.com}
@@ -37,8 +37,8 @@
       \keyw{1 Einleitung}
     \endentry
     \entry{NumberChatGPTUsers2023}{misc}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{abstract}{Statistics and growth data related to the number of ChatGPT users.}
       \field{howpublished}{https://explodingtopics.com/blog/chatgpt-users}
@@ -57,8 +57,8 @@
       \keyw{1 Einleitung}
     \endentry
     \entry{WasIstKuenstliche}{misc}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Erfahren Sie, wie künstliche Intelligenz und KI-Technologien die Geschäftsprozesse verändern und Unternehmen widerstands- und wettbewerbsfähiger machen.}
       \field{howpublished}{https://www.sap.com/germany/products/artificial-intelligence/what-is-artificial-intelligence.html}
@@ -75,8 +75,8 @@
       \endverb
     \endentry
     \entry{DPMAPatentschutz}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{abstract}{Patentschutz - Schutz für Ihre technischen Erfindungen - Patente erleichtern unternehmerische Entscheidungen - Bedeutung für Technologie-Transfer - Erfindung ist 20 Jahre geschützt - Grenzüberschreitender Schutz möglich - Erfindungen lizenzieren - Gebrauchsmuster - die schnelle Alternative zum Patent - Den Stand der Technik überblicken - Weitere Informationen}
       \field{howpublished}{https://www.dpma.de/patente/patentschutz/index.html}
@@ -93,8 +93,8 @@
       \keyw{1 Einleitung,2.1 Patentgesetz Def}
     \endentry
     \entry{WasIstKuenstliche2021}{misc}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Künstliche Intelligenz (KI) ist eine Technologie, die es Computern und digitalen Geräten ermöglicht, zu lernen, zu lesen, zu schreiben, zu kreieren und zu analysieren.}
       \field{howpublished}{https://www.ibm.com/de-de/topics/artificial-intelligence}
@@ -110,8 +110,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WhatAIBasica}{misc}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{howpublished}{http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html}
       \field{title}{What Is {{AI}}? / {{Basic Questions}}}
@@ -125,8 +125,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WasIstKuenstliche2020}{misc}{}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz (KI) gilt als ,,zukunftsweisende Technologie``. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{howpublished}{https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt}
@@ -158,8 +158,8 @@
       \strng{authorbibnamehash}{4aee997b78b1bdbd637734fc425ed029}
       \strng{authornamehash}{4aee997b78b1bdbd637734fc425ed029}
       \strng{authorfullhash}{4aee997b78b1bdbd637734fc425ed029}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ist mehr als ein gehyptes Buzzword. KI bestimmt den Alltag und hält Einzug in Unternehmen. Praxisbeispiele, Use Cases \& mehr.}
@@ -176,8 +176,8 @@
       \keyw{2.2 KI Def}
     \endentry
     \entry{WasIstStarke2023}{misc}{}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Erfahren Sie mehr über die starke KI, eine theoretische Form der KI, die menschliche Eigenschaften und Fähigkeiten wie Vernunft, Planung und Problemlösung repliziert.}
       \field{howpublished}{https://www.ibm.com/de-de/topics/strong-ai}
@@ -628,8 +628,8 @@
       \strng{authorbibnamehash}{48cabb6dc57e254931e94ba286b81385}
       \strng{authornamehash}{48cabb6dc57e254931e94ba286b81385}
       \strng{authorfullhash}{48cabb6dc57e254931e94ba286b81385}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{ngerman}
@@ -727,6 +727,21 @@
       \verb /Users/chrisoesterreich/Zotero/storage/DX4TK2PF/Dokument.html
       \endverb
     \endentry
+    \entry{RedekerITRechtSchutz}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://beck-online.beck.de/?vpath=bibdata\%2Fkomm\%2FRedekerHdbITR\_6\%2Fcont\%2FRedekerHdbITR\%2EglA\%2EglII\%2Egl2\%2Egla\%2Ehtm}
+      \field{title}{Redeker, {{IT-Recht}} {|} {{A}}. {{Der Schutz}} von {{Software Rn}}. 1-277 - Beck-Online}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/4UMUU5RQ/beck-online.beck.de.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
     \entry{instituteofelectricalandelectronicsengineersinc.ISO47652010}{misc}{}
       \name{author}{1}{}{%
         {{hash=33d11f2d4c7b26ba99c7a817fe7bee49}{%
@@ -822,8 +837,8 @@
       \strng{authornamehash}{60547c6eb8f55ed54128643c6154c7ec}
       \strng{authorfullhash}{60547c6eb8f55ed54128643c6154c7ec}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Was ist "Systemprogramm"? Definition im Gabler Wirtschaftslexikon vollständig und kostenfrei online. \ding{51}Geprüftes Wissen beim Original.}
@@ -969,8 +984,8 @@
       \endverb
     \endentry
     \entry{BPatG01032001}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{month}{3}
       \field{number}{BPATG Aktenzeichen 17 W (pat) 6/00}
@@ -1082,8 +1097,24 @@
       \verb /Users/chrisoesterreich/Zotero/storage/MIXQCG9C/alphafold.html
       \endverb
     \endentry
+    \entry{DPMAAnmeldung}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Anmeldung - Erfindung deutlich und präzise darstellen - Vollständige Offenbarung - Wichtiger Hinweis: Patentansprüche durchdacht formulieren - Unterlagen und Informationen - Unterlagen und Sprachen - Wo kann man die Patentanmeldung einreichen? - Patente elektronisch anmelden - Achtung wichtig - der Anmeldetag! - Und nicht vergessen: Gebühren pünktlich bezahlen - Ist meine Erfindung vielleicht ein Staatsgeheimnis? - Pilotprojekt Global Patent Prosecution Highway (GPPH)}
+      \field{howpublished}{https://www.dpma.de/patente/anmeldung/index.html}
+      \field{journaltitle}{Deutsches Patent- und Markenamt}
+      \field{langid}{ngerman}
+      \field{title}{{DPMA {|} Anmeldung}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/AF3TPXBF/index.html
+      \endverb
+    \endentry
   \enddatalist
-  \missing{redekerSchutzSoftware2023}
 \endrefsection
 \endinput
 

@@ -1,4 +1,4 @@
-\documentclass[bibtotoc,liststotoc,BCOR=5mm,DIV=12]{scrbook}
+\documentclass[oneside,cleardoublepage=empty,bibtotoc,liststotoc,BCOR=5mm,DIV=12]{scrbook}
 
 % use this declaration to set specific page margins
 %\usepackage[a4paper , lmargin = {2.7cm} , rmargin = {2.9cm} , tmargin = {2.7cm} , bmargin = {4.6cm} ]{geometry}
@@ -8,16 +8,33 @@
 \usepackage{bibgerm}       		% german references
 \usepackage[T1]{fontenc} % german characters
 \usepackage{graphicx} 				% it's recommended to use PDF images but you can use JPG or PNG as well
-\usepackage{url}           		% format URLs
+\usepackage{url}   
 \usepackage{hyperref} 				% create hyperlinks
 \usepackage{listings, color}	% for source code
 \usepackage{subfig}						% two figures next to each other (example: figure 3a), figure 3b)
-\usepackage{scrlayer-scrpage}					% header and footer line
+\usepackage{scrlayer-scrpage}
+\setlength {\marginparwidth }{2cm}					% header and footer line
 \usepackage{todonotes}
 \usepackage{scrhack}
+\usepackage{pdfpages}
+\usepackage[acronym,nomain]{glossaries}
+\usepackage[utf8]{inputenc}  % For UTF-8 input encoding
+\usepackage[T1]{fontenc}     % For proper output encoding
+\usepackage{csquotes}        		% format URLs
 % Use biblatex for footnote citations
 \usepackage[backend=biber, style=numeric, citestyle=numeric-comp, sorting=none]{biblatex}
 \addbibresource{./bib/manual.bib}
+
+\makeglossaries
+% Own Commands
+\newcommand{\usection}[1]{\section*{#1}
+\addcontentsline{toc}{section}{\protect\numberline{}#1}}
+
+\newcommand{\usubsection}[1]{\subsection*{#1}
+\addcontentsline{toc}{subsection}{\protect\numberline{}#1}}
+
+\newcommand{\usubsubsection}[1]{\subsubsection*{#1}
+\addcontentsline{toc}{subsubsection}{\protect\numberline{}#1}}
 
 % header and footer line - no header & footer line on pages where a new chapter starts
 \pagestyle{scrheadings}
@@ -31,24 +48,20 @@
 \input{./misc/hyphenation} 					% use this file to set explicit hyphenations (doesn't seem to work correctly)
 \hbadness=99999
 \hfuzz=9999pt
-
+\input{./misc/acronyms.tex}
 \begin{document}
 % ---------------------------------------------------------------
 \frontmatter
     \include{./misc/titlepage}
-    \thispagestyle{empty}
-    \cleardoublepage
     
     \include{./misc/self-assertion} 
-    \thispagestyle{empty}
-    \cleardoublepage
+
     
     \include{./misc/abstract}
     \include{./misc/abstract_de}
 
     % Add table of contents
     \tableofcontents
-    \cleardoublepage
     
     \renewcommand{\listfigurename}{Abbildungsverzeichnis}
     \renewcommand{\listtablename}{Tabellenverzeichnis}
@@ -56,9 +69,7 @@
     
     % Use a single \clearpage instead of \cleardoublepage to prevent unwanted blank pages
     \listoffigures
-    \cleardoublepage
     \listoftables
-    \cleardoublepage
     
 % --------------------------------------------------------------
 
@@ -67,13 +78,17 @@
     \input{./chapters/chapter1}
     \input{./chapters/chapter2}
     \input{./chapters/chapter3}
+    \input{./chapters/chapter4}
     \input{./chapters/chapter5}
     \input{./chapters/chapter6}
-    \input{./chapters/chapter7}
 
 % ---------------------------------------------------------------
 \backmatter % no page numbering from here
-    \input{./misc/acronyms}
+    \phantomsection  % Correct hyperlinking
+    \addcontentsline{toc}{chapter}{Akronymverzeichnis}
+    \printglossary[type=\acronymtype,title=Akronymverzeichnis]
+    \clearpage
+    \input{./misc/appendix}
     % Comment out the traditional bibliography environment
     % \bibliographystyle{geralpha}
     % \bibliography{./bib/manual}
