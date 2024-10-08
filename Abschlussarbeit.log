@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.24)  8 OCT 2024 12:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.24)  8 OCT 2024 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1396,7 +1396,7 @@ chapter 6.
 [34
 
 
-]) [35] (./Abschlussarbeit.acr) [36
+] [35]) [36] (./Abschlussarbeit.acr) [37
 
 
 
@@ -1405,7 +1405,7 @@ chapter 6.
 
 ] (./misc/appendix.tex
 chapter without number
-<./img/Beschreibung der Erfindung.pdf, id=562, 597.23125pt x 845.1575pt>
+<./img/Beschreibung der Erfindung.pdf, id=567, 597.23125pt x 845.1575pt>
 File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
 <use ./img/Beschreibung der Erfindung.pdf>
 Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf  used on input line 16.
@@ -1414,7 +1414,7 @@ File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
 <use ./img/Beschreibung der Erfindung.pdf>
 Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf  used on input line 16.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<./img/Beschreibung der Erfindung.pdf, id=565, page=1, 597.23125pt x 845.1575pt>
+<./img/Beschreibung der Erfindung.pdf, id=570, page=1, 597.23125pt x 845.1575pt>
 File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
 <use ./img/Beschreibung der Erfindung.pdf, page 1>
 Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page1 used on input line 16.
@@ -1423,7 +1423,7 @@ File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
 <use ./img/Beschreibung der Erfindung.pdf, page 1>
 Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-[37
+[38
 
 
 
@@ -1440,36 +1440,36 @@ File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
 <use ./img/Beschreibung der Erfindung.pdf, page 1>
 Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [38 <./img/Beschreibung der Erfindung.pdf>]
-<./img/Beschreibung der Erfindung.pdf, id=599, page=2, 597.23125pt x 845.1575pt>
-File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 2>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 2>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 2>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [39 <./img/Beschreibung der Erfindung.pdf>]
-<./img/Beschreibung der Erfindung.pdf, id=604, page=3, 597.23125pt x 845.1575pt>
+<./img/Beschreibung der Erfindung.pdf, id=603, page=2, 597.23125pt x 845.1575pt>
 File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 3>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+<use ./img/Beschreibung der Erfindung.pdf, page 2>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 3>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+<use ./img/Beschreibung der Erfindung.pdf, page 2>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
-<use ./img/Beschreibung der Erfindung.pdf, page 3>
-Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+<use ./img/Beschreibung der Erfindung.pdf, page 2>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page2 used on input line 16.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [40 <./img/Beschreibung der Erfindung.pdf>]
-<./img/Schutzansprueche.pdf, id=609, 597.23125pt x 845.1575pt>
+<./img/Beschreibung der Erfindung.pdf, id=608, page=3, 597.23125pt x 845.1575pt>
+File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
+<use ./img/Beschreibung der Erfindung.pdf, page 3>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
+<use ./img/Beschreibung der Erfindung.pdf, page 3>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./img/Beschreibung der Erfindung.pdf Graphic file (type pdf)
+<use ./img/Beschreibung der Erfindung.pdf, page 3>
+Package pdftex.def Info: ./img/Beschreibung der Erfindung.pdf , page3 used on input line 16.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [41 <./img/Beschreibung der Erfindung.pdf>]
+<./img/Schutzansprueche.pdf, id=613, 597.23125pt x 845.1575pt>
 File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
 <use ./img/Schutzansprueche.pdf>
 Package pdftex.def Info: ./img/Schutzansprueche.pdf  used on input line 21.
@@ -1478,7 +1478,7 @@ File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
 <use ./img/Schutzansprueche.pdf>
 Package pdftex.def Info: ./img/Schutzansprueche.pdf  used on input line 21.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<./img/Schutzansprueche.pdf, id=612, page=1, 597.23125pt x 845.1575pt>
+<./img/Schutzansprueche.pdf, id=616, page=1, 597.23125pt x 845.1575pt>
 File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
 <use ./img/Schutzansprueche.pdf, page 1>
 Package pdftex.def Info: ./img/Schutzansprueche.pdf , page1 used on input line 21.
@@ -1498,23 +1498,23 @@ Package pdftex.def Info: ./img/Schutzansprueche.pdf , page1 used on input line 2
 File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
 <use ./img/Schutzansprueche.pdf, page 1>
 Package pdftex.def Info: ./img/Schutzansprueche.pdf , page1 used on input line 21.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [41 <./img/Schutzansprueche.pdf>]
-<./img/Schutzansprueche.pdf, id=632, page=2, 597.23125pt x 845.1575pt>
-File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
-<use ./img/Schutzansprueche.pdf, page 2>
-Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
-<use ./img/Schutzansprueche.pdf, page 2>
-Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
-<use ./img/Schutzansprueche.pdf, page 2>
-Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
  [42 <./img/Schutzansprueche.pdf>]
-<./img/Zusammenfassung.pdf, id=637, 597.23125pt x 845.1575pt>
+<./img/Schutzansprueche.pdf, id=636, page=2, 597.23125pt x 845.1575pt>
+File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
+<use ./img/Schutzansprueche.pdf, page 2>
+Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
+<use ./img/Schutzansprueche.pdf, page 2>
+Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./img/Schutzansprueche.pdf Graphic file (type pdf)
+<use ./img/Schutzansprueche.pdf, page 2>
+Package pdftex.def Info: ./img/Schutzansprueche.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [43 <./img/Schutzansprueche.pdf>]
+<./img/Zusammenfassung.pdf, id=641, 597.23125pt x 845.1575pt>
 File: ./img/Zusammenfassung.pdf Graphic file (type pdf)
 <use ./img/Zusammenfassung.pdf>
 Package pdftex.def Info: ./img/Zusammenfassung.pdf  used on input line 27.
@@ -1523,7 +1523,7 @@ File: ./img/Zusammenfassung.pdf Graphic file (type pdf)
 <use ./img/Zusammenfassung.pdf>
 Package pdftex.def Info: ./img/Zusammenfassung.pdf  used on input line 27.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<./img/Zusammenfassung.pdf, id=640, page=1, 597.23125pt x 845.1575pt>
+<./img/Zusammenfassung.pdf, id=644, page=1, 597.23125pt x 845.1575pt>
 File: ./img/Zusammenfassung.pdf Graphic file (type pdf)
 <use ./img/Zusammenfassung.pdf, page 1>
 Package pdftex.def Info: ./img/Zusammenfassung.pdf , page1 used on input line 27.
@@ -1544,18 +1544,18 @@ File: ./img/Zusammenfassung.pdf Graphic file (type pdf)
 <use ./img/Zusammenfassung.pdf, page 1>
 Package pdftex.def Info: ./img/Zusammenfassung.pdf , page1 used on input line 27.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [43 <./img/Zusammenfassung.pdf>] (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+ [44 <./img/Zusammenfassung.pdf>] (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 52.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 54.
- [44] [45] [46] [47]) [48]
+ [45] [46] [47] [48]) [49]
 chapter without number
-[49
+[50
 
 
-] [50] [51] [52] (./Abschlussarbeit.aux (./misc/titlepage.aux) (./misc/self-assertion.aux) (./misc/abstract.aux) (./misc/abstract_de.aux))
+] [51] [52] [53] (./Abschlussarbeit.aux (./misc/titlepage.aux) (./misc/self-assertion.aux) (./misc/abstract.aux) (./misc/abstract_de.aux))
 Package rerunfilecheck Info: File `Abschlussarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Abschlussarbeit.run.xml'.
@@ -1563,8 +1563,8 @@ Package logreq Info: Writing requests to 'Abschlussarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46468 strings out of 478268
- 931746 string characters out of 5846347
+ 46469 strings out of 478268
+ 931753 string characters out of 5846347
  2171281 words of memory out of 5000000
  63384 multiletter control sequences out of 15000+600000
  485746 words of font info for 59 fonts, out of 8000000 for 9000
@@ -1577,10 +1577,10 @@ pdfTeX warning (dest): name{glo:EP\334} has been referenced but does not exist, 
 pdfTeX warning (dest): name{glo:BPatG} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfit0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Abschlussarbeit.pdf (57 pages, 1143822 bytes).
+Output written on Abschlussarbeit.pdf (58 pages, 1145037 bytes).
 PDF statistics:
- 1281 PDF objects out of 1440 (max. 8388607)
- 1134 compressed objects within 12 object streams
- 513 named destinations out of 1000 (max. 500000)
+ 1285 PDF objects out of 1440 (max. 8388607)
+ 1137 compressed objects within 12 object streams
+ 514 named destinations out of 1000 (max. 500000)
  510 words of extra memory for PDF output out of 10000 (max. 10000000)
 
