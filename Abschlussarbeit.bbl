@@ -428,17 +428,38 @@
       \verb /Users/chrisoesterreich/Zotero/storage/Q6HRQG6R/rechtschutz_urheberrecht_node.html
       \endverb
     \endentry
-    \entry{EPA27012020}{misc}{}
+    \entry{000820Designation}{misc}{}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
-      \field{month}{1}
-      \field{number}{18 275 163.6}
-      \field{title}{{{EPA}}, 27.01.2020 - 18 275 163.6}
-      \field{type}{Urt.}
-      \field{year}{2020}
+      \field{howpublished}{https://www.epo.org/en/boards-of-appeal/decisions/j200008eu1}
+      \field{title}{J 0008/20 ({{Designation}} of Inventor/{{DABUS}}) 21-12-2021 {|} Epo.Org}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
       \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/ZFNG6I5X/Dokument.html
+      \verb /Users/chrisoesterreich/Zotero/storage/KBZQT3LT/j200008eu1.html
+      \endverb
+    \endentry
+    \entry{KIRegelnWofuerEuropaeische2020}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Die Europaabgeordneten wollen einen Rechtsrahmen für den Einsatz künstlicher Intelligenz schaffen, der Innovation fördert und Sicherheit bringt.}
+      \field{howpublished}{https://www.europarl.europa.eu/topics/de/article/20201015STO89417/ki-regeln-wofur-das-europaische-parlament-eintritt}
+      \field{journaltitle}{Themen {|} Europäisches Parlament}
+      \field{langid}{ngerman}
+      \field{month}{10}
+      \field{shorttitle}{{KI-Regeln}}
+      \field{title}{{KI-Regeln: Wofür das Europäische Parlament eintritt}}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/V7GFFTZZ/ki-regeln-wofur-das-europaische-parlament-eintritt.html
       \endverb
     \endentry
     \entry{TextsAdoptedIntellectual}{misc}{}
@@ -556,18 +577,31 @@
       \endverb
       \keyw{3.2 KI als Erfinder}
     \endentry
-    \entry{BPatG21122021}{misc}{}
+    \entry{zivilsenatZB222024}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a476a85e8cd9296aeb475656ec90c784}{%
+           family={Zivilsenat},
+           familyi={Z\bibinitperiod},
+           given={BGH\bibnamedelima 10},
+           giveni={B\bibinitperiod\bibinitdelim 1\bibinitperiod}}}%
+      }
+      \strng{namehash}{a476a85e8cd9296aeb475656ec90c784}
+      \strng{fullhash}{a476a85e8cd9296aeb475656ec90c784}
+      \strng{bibnamehash}{a476a85e8cd9296aeb475656ec90c784}
+      \strng{authorbibnamehash}{a476a85e8cd9296aeb475656ec90c784}
+      \strng{authornamehash}{a476a85e8cd9296aeb475656ec90c784}
+      \strng{authorfullhash}{a476a85e8cd9296aeb475656ec90c784}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Redaktionelle Leitsätze: 					1. Die Angabe einer nicht-menschlichen Entität als Erfinder erfüllt nicht die Anforderung an der Erfinderbenennung.~ (Rn. GRURRS Jahr 2021 Randnummer 24) 					2. Ist ein Patentanmelder Eigentümer, Besitzer, Hersteller, Programmierer sowie Betreiber einer Maschine mit künstlicher Intelligenz und hat keine andere Person einen Beitrag zur Erfindung geliefert, spricht nichts dagegen, dass er sich als Erfinder bezeichnet.~ ~ ~ (Rn. GRURRS Jahr 2021 Randnummer 27) 					3. Hat der Anmelder im Hinblick auf die Wahrheitspflicht Bedenken, zu verschweigen, dass er eine Maschine mit künstlicher Intelligenz zur Hilfe genommen hat, kann er dies in der Beschreibung angeben.~~ (Rn. GRURRS Jahr 2021 Randnummer 29)}
-      \field{month}{12}
-      \field{number}{BPATG Aktenzeichen 18 W (pat) 28/20}
-      \field{title}{{{BPatG}}, 21.12.2021 - {{BPATG Aktenzeichen}} 18 {{W}} (Pat) 28/20}
-      \field{type}{Beschl.}
-      \field{year}{2021}
+      \field{abstract}{Beschluss}
+      \field{langid}{ngerman}
+      \field{month}{6}
+      \field{title}{{X ZB 5/22}}
+      \field{year}{2024}
       \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/PAXL2QE8/Dokument.html
+      \verb /Users/chrisoesterreich/Zotero/storage/B3FG8QJ7/bsjrsprod.html
       \endverb
     \endentry
     \entry{konertzErfindungenDurchComputer2018}{article}{}
@@ -589,8 +623,8 @@
       \strng{authorbibnamehash}{829e8b4910904e1a3254d10dfb05aec7}
       \strng{authornamehash}{829e8b4910904e1a3254d10dfb05aec7}
       \strng{authorfullhash}{829e8b4910904e1a3254d10dfb05aec7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1867-237X}
@@ -709,7 +743,7 @@
       \endverb
       \keyw{3.1 Pat Computerprogramm}
     \endentry
-    \entry{BGH2420112011a}{misc}{}
+    \entry{BGH2420112011}{misc}{}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{shorttitle}
@@ -724,8 +758,9 @@
       \field{pages}{610\bibrangedash 613}
       \range{pages}{4}
       \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/DX4TK2PF/Dokument.html
+      \verb /Users/chrisoesterreich/Zotero/storage/CB69HCWH/Dokument.html
       \endverb
+      \keyw{3.1 Pat Computerprogramm}
     \endentry
     \entry{RedekerITRechtSchutz}{misc}{}
       \field{sortinit}{3}
@@ -799,8 +834,8 @@
       \strng{authornamehash}{60547c6eb8f55ed54128643c6154c7ec}
       \strng{authorfullhash}{60547c6eb8f55ed54128643c6154c7ec}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Was ist "Anwendungsprogramm"? Definition im Gabler Wirtschaftslexikon vollständig und kostenfrei online. \ding{51}Geprüftes Wissen beim Original.}
@@ -873,18 +908,117 @@
       \verb /Users/chrisoesterreich/Zotero/storage/N2T28FRY/computer-programs.html
       \endverb
     \endentry
-    \entry{MathematischeMethoden}{misc}{}
+    \entry{EPThisFile}{misc}{}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
-      \field{howpublished}{https://www.epo.org/de/legal/guidelines-epc/2024/g\_ii\_3\_3.html}
-      \field{title}{3.3 {{Mathematische Methoden}}}
+      \field{howpublished}{https://register.epo.org/application?number=EP79300903}
+      \field{title}{{{EP About}} This File - {{European Patent Register}}}
       \field{urlday}{22}
       \field{urlmonth}{8}
       \field{urlyear}{2024}
       \field{urldateera}{ce}
       \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/3LH2XP4U/g_ii_3_3.html
+      \verb /Users/chrisoesterreich/Zotero/storage/V9KWNCB2/application.html
+      \endverb
+    \endentry
+    \entry{ComvikAnsatz}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.epo.org/de/legal/case-law/2022/clr\_i\_d\_9\_2\_1.html}
+      \field{title}{9.2.1 {{Der Comvik Ansatz}}}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/PEQYHLZ7/clr_i_d_9_2_1.html
+      \endverb
+    \endentry
+    \entry{064100Zwei}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.epo.org/de/boards-of-appeal/decisions/t000641dp1}
+      \field{title}{T 0641/00 ({{Zwei Kennungen}}/{{COMVIK}}) 26-09-2002 {|} Epo.Org}
+      \field{urlday}{14}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/NUW7E3UB/t000641dp1.html
+      \endverb
+    \endentry
+    \entry{BGH22061976}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organisations- und Rechenprogramme für elektronische Datenverarbeitungsanlagen zur Lösung von betrieblichen Dispositionsaufgaben, bei deren Anwendung lediglich von einer in Aufbau und Konstruktion bekannten Datenverarbeitungsanlage der bestimmungsgemä{ß}e Gebrauch gemacht wird, sind nicht patentfähig.}
+      \field{month}{6}
+      \field{number}{X ZB 23/74}
+      \field{shorttitle}{{{BGH}} 22.06.1976 {{X ZB}} 23/74 "{{Dispositionsprogramm}}" Zur {{Fussnote}}}
+      \field{title}{{{BGH}}, 22.06.1976 - {{X ZB}} 23/74 - {{BGH}} 22.06.1976 {{X ZB}} 23/74 "{{Dispositionsprogramm}}" Zur {{Fussnote}}}
+      \field{volume}{1977}
+      \field{year}{1976}
+      \field{pages}{96\bibrangedash 99}
+      \range{pages}{4}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/S6DWB5SG/Dokument.html
+      \endverb
+    \endentry
+    \entry{Bundesgerichtshof13051980}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Zur Frage der technischen Erfindung.}
+      \field{month}{5}
+      \field{number}{X ZB 19/78}
+      \field{shorttitle}{Bundesgerichtshof 13.05.1980 {{X ZB}} 19/78 "{{Antiblockiersystem}}"}
+      \field{title}{Bundesgerichtshof, 13.05.1980 - {{X ZB}} 19/78 - {{Bundesgerichtshof}} 13.05.1980 {{X ZB}} 19/78 "{{Antiblockiersystem}}"}
+      \field{type}{Beschl.}
+      \field{volume}{1980}
+      \field{year}{1980}
+      \field{pages}{849\bibrangedash 852}
+      \range{pages}{4}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/WHVVYG2B/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{BGH04021992}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{1. Die Nichtigkeitsklage kann entsprechend {§} ZPO {§} 265 Abs. ZPO {§} 265 Absatz 2 ZPO auch dann weiter gegen den in der Patentrolle eingetragenen Inhaber gerichtet bleiben, wenn das streitbefangene Patent nach Eintritt der Rechtshängigkeit auf einen anderen übertragen und der Erwerber inzwischen in die Patentrolle eingetragen ist (Fortführung von BGHZ 72, BGHZ Band 72 Seite 236 zur Fussnote 1 - Aufwärmvorrichtung; abweichend von RGZ 72, RGZ Band 72 Seite 242 und RG GRUR 1938, GRUR Jahr 1938 Seite 581). 2. Wer Tiefenmesser, Zeitmesser, Datenspeicher, Auswerte- und Verknüpfungsstufe, Wandlereinrichtung sowie Anzeigemittel nach einer bestimmten Rechenregel (Programm oder Denkschema), d. h. in Abhängigkeit der anzuzeigenden Gesamtauftauchzeit von durchtauchten Tiefen und Zeiten, betreibt und es ermöglicht, mit Hilfe von Me{ß}geräten ermittelte Me{ß}grö{ß}en in der Anzeigeeinrichtung automatisch ohne Einschaltung der menschlichen Verstandestätigkeit anzuzeigen, gibt eine Lehre zum technischen Handeln. 3. Enthält eine Erfindung technische und nichttechnische Merkmale, so ist bei deren Prüfung auf erfinderische Tätigkeit der gesamte Erfindungsgegenstand unter Einschlu{ß} einer etwaigen Rechenregel zu berücksichtigen.}
+      \field{month}{2}
+      \field{number}{X ZR 43/91}
+      \field{shorttitle}{{{BGH}} 04.02.1992 {{X ZR}} 43/91 "{{Tauchcomputer}}" Zur {{Fussnote}}}
+      \field{title}{{{BGH}}, 04.02.1992 - {{X ZR}} 43/91 - {{BGH}} 04.02.1992 {{X ZR}} 43/91 "{{Tauchcomputer}}" Zur {{Fussnote}}}
+      \field{type}{Urt.}
+      \field{volume}{1992}
+      \field{year}{1992}
+      \field{pages}{430\bibrangedash 432}
+      \range{pages}{3}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/99GLIND2/Dokument.html
+      \endverb
+    \endentry
+    \entry{BGH13121999}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{1. Die Beantwortung der Frage, ob eine auf ein Programm für Datenverarbeitungsanlagen gerichtete Patentanmeldung die nach {§} PATG {§} 1 Abs. PATG {§} 1 Absatz 1 PatG vorausgesetzte Technizität aufweist, erfordert eine wertende Betrachtung des im Patentanspruch, definierten Gegenstandes. 2. Betrifft der Lösungsvorschlag einen Zwischenschritt im Proze{ß}, der mit der Herstellung von (Silicium-)Chips endet, so kann er vom Patentschutz nicht deshalb ausgenommen sein, weil er - abgesehen von den in dem verwendeten elektronischen Rechner bestimmungsgemä{ß} ablaufenden Vorgängen - auf den unmittelbaren Einsatz von beherrschbaren Naturkräften verzichtet und die Möglichkeit der Fertigung tauglicher Erzeugnisse anderweitig durch auf technischen Überlegungen beruhende Erkenntnisse voranzubringen sucht (Abweichung von BGHZ 115, BGHZ Band 115 Seite 23, BGHZ Band 115 Seite 30 = GRUR 1992, GRUR Jahr 1992 Seite 36 - Chinesische Schriftzeichen).}
+      \field{month}{12}
+      \field{number}{X ZB 11/98}
+      \field{shorttitle}{"{{Logikverifikation}}" Zur {{Fussnote}}}
+      \field{title}{{{BGH}}, 13.12.1999 - {{X ZB}} 11/98 - "{{Logikverifikation}}" Zur {{Fussnote}}}
+      \field{volume}{2000}
+      \field{year}{1999}
+      \field{pages}{498\bibrangedash 502}
+      \range{pages}{5}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/L9QM69SQ/Dokument.html
       \endverb
     \endentry
     \entry{melullisEPUArt522023}{article}{}
@@ -912,8 +1046,8 @@
       \strng{editorbibnamehash}{bf137187291628b79454b52baf207a34}
       \strng{editornamehash}{bf137187291628b79454b52baf207a34}
       \strng{editorfullhash}{bf137187291628b79454b52baf207a34}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{4}
@@ -925,54 +1059,9 @@
       \endverb
       \keyw{3.1 Pat Computerprogramm}
     \endentry
-    \entry{ensthalerEnsthalerBegrenzungPatentierung2013}{article}{}
-      \name{author}{1}{}{%
-        {{hash=9ee1efb0b9edc065bfdc88ac76c81774}{%
-           family={Ensthaler},
-           familyi={E\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \strng{fullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \strng{bibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \strng{authorbibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \strng{authornamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \strng{authorfullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Ein so genannter interfraktioneller Antrag im Bundestag ist darauf gerichtet, die Patentierung von Computerprogrammen effektiv zu begrenzen. Der Beitrag nimmt zu diesem Antrag Stellung und entwickelt einen eigenen Vorschlag.}
-      \field{journaltitle}{Gewerblicher Rechtsschutz und Urheberrecht}
-      \field{number}{7}
-      \field{shorttitle}{Ensthaler}
-      \field{title}{Ensthaler: {{Begrenzung}} Der {{Patentierung}} von {{Computerprogrammen}}?}
-      \field{year}{2013}
-      \field{pages}{666\bibrangedash 669}
-      \range{pages}{4}
-      \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/CAJZRDZP/Dokument.html
-      \endverb
-      \keyw{3.1 Pat Computerprogramm}
-    \endentry
-    \entry{EPThisFile}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{https://register.epo.org/application?number=EP79300903}
-      \field{title}{{{EP About}} This File - {{European Patent Register}}}
-      \field{urlday}{22}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/V9KWNCB2/application.html
-      \endverb
-    \endentry
     \entry{BPatG10012012}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{month}{1}
       \field{number}{BPATG Aktenzeichen 17 W (pat) 74/07}
@@ -1013,28 +1102,53 @@
       \verb /Users/chrisoesterreich/Zotero/storage/XTP3JFDM/Dokument.html
       \endverb
     \endentry
-    \entry{pauliniKIgenerierteErfindungPatentrechtliche}{article}{}
+    \entry{ensthalerEnsthalerBegrenzungPatentierung2013}{article}{}
       \name{author}{1}{}{%
-        {{hash=9e5072ff611aafcb183377d1166c86df}{%
-           family={Paulini},
-           familyi={P\bibinitperiod},
-           given={Oskar},
-           giveni={O\bibinitperiod}}}%
+        {{hash=9ee1efb0b9edc065bfdc88ac76c81774}{%
+           family={Ensthaler},
+           familyi={E\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{9e5072ff611aafcb183377d1166c86df}
-      \strng{fullhash}{9e5072ff611aafcb183377d1166c86df}
-      \strng{bibnamehash}{9e5072ff611aafcb183377d1166c86df}
-      \strng{authorbibnamehash}{9e5072ff611aafcb183377d1166c86df}
-      \strng{authornamehash}{9e5072ff611aafcb183377d1166c86df}
-      \strng{authorfullhash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{namehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{fullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{bibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authorbibnamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authornamehash}{9ee1efb0b9edc065bfdc88ac76c81774}
+      \strng{authorfullhash}{9ee1efb0b9edc065bfdc88ac76c81774}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{ngerman}
-      \field{title}{{Die KI-generierte Erfindung - Die patentrechtliche Zuordnung technischer Leistungen im Zeitalter künstlicher Intelligenz}}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Ein so genannter interfraktioneller Antrag im Bundestag ist darauf gerichtet, die Patentierung von Computerprogrammen effektiv zu begrenzen. Der Beitrag nimmt zu diesem Antrag Stellung und entwickelt einen eigenen Vorschlag.}
+      \field{journaltitle}{Gewerblicher Rechtsschutz und Urheberrecht}
+      \field{number}{7}
+      \field{shorttitle}{Ensthaler}
+      \field{title}{Ensthaler: {{Begrenzung}} Der {{Patentierung}} von {{Computerprogrammen}}?}
+      \field{year}{2013}
+      \field{pages}{666\bibrangedash 669}
+      \range{pages}{4}
       \verb{file}
-      \verb /Users/chrisoesterreich/Zotero/storage/5ZWGE6I8/Paulini - Die KI-generierte Erfindung - Die patentrechtliche.pdf
+      \verb /Users/chrisoesterreich/Zotero/storage/CAJZRDZP/Dokument.html
+      \endverb
+      \keyw{3.1 Pat Computerprogramm}
+    \endentry
+    \entry{WieManPatente2021}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ein mit Hilfe von Künstlicher Intelligenz optimiertes Produkt soll geschützt werden. Lässt sich etwas patentieren, das mit KI generiert wurde -- und wie?}
+      \field{howpublished}{https://www.autodesk.com/de/design-make/articles/ki-patente}
+      \field{langid}{ngerman}
+      \field{month}{2}
+      \field{title}{{Wie man Patente auf KI-generierte Erfindungen erhält}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/GETZG4LP/ki-patente.html
       \endverb
     \endentry
     \entry{nagerlKunstlicheIntelligenzParadigmenwechsel2019}{article}{}
@@ -1078,9 +1192,87 @@
       \endverb
       \keyw{3.2 KI als Erfinder}
     \endentry
+    \entry{asendorfPatGErfindungAuf2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c1caf59b957b4c1acdcabf656cb357bd}{%
+           family={Asendorf},
+           familyi={A\bibinitperiod}}}%
+        {{hash=2814b913a174b4b59397203c6d636c3e}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod}}}%
+        {{hash=b8d38785d929b79a3bff0b1f93ad913e}{%
+           family={Tochtermann},
+           familyi={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=32f9843688463886ad33db2044e5b963}{%
+           family={PatG},
+           familyi={P\bibinitperiod},
+           given={Patentgesetz:},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{fullhash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{bibnamehash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{authorbibnamehash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{authornamehash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{authorfullhash}{a5ae49e1df55e25f9fa914ea00c4fc95}
+      \strng{editorbibnamehash}{32f9843688463886ad33db2044e5b963}
+      \strng{editornamehash}{32f9843688463886ad33db2044e5b963}
+      \strng{editorfullhash}{32f9843688463886ad33db2044e5b963}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12}
+      \field{journaltitle}{Benkard}
+      \field{title}{{{PatG}} {§} 4 [{{Erfindung}} Auf {{Grund}} Erfinderischer {{Tätigkeit}}]}
+      \field{year}{2023}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/YH7RIER9/Dokument.html
+      \endverb
+    \endentry
+    \entry{DPMAregisterOriginaldokumentDE102017212328A1}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://register.dpma.de/DPMAregister/pat/PatSchrifteneinsicht?docId=DE102017212328A1\&page=1\&dpi=300\&lang=de}
+      \field{title}{{{DPMAregister}} {|} {{Originaldokument}} - {{DE102017212328A1}}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/VSH4R2RD/PatSchrifteneinsicht.html
+      \endverb
+    \endentry
+    \entry{pauliniKIgenerierteErfindungPatentrechtliche}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9e5072ff611aafcb183377d1166c86df}{%
+           family={Paulini},
+           familyi={P\bibinitperiod},
+           given={Oskar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{fullhash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{bibnamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authorbibnamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authornamehash}{9e5072ff611aafcb183377d1166c86df}
+      \strng{authorfullhash}{9e5072ff611aafcb183377d1166c86df}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{ngerman}
+      \field{title}{{Die KI-generierte Erfindung - Die patentrechtliche Zuordnung technischer Leistungen im Zeitalter künstlicher Intelligenz}}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/5ZWGE6I8/Paulini - Die KI-generierte Erfindung - Die patentrechtliche.pdf
+      \endverb
+    \endentry
     \entry{AlphaFold2024}{misc}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{abstract}{Breakthrough AI system accurately predicts the 3D models of protein structures --- and accelerates research in nearly every field of biology.}
       \field{howpublished}{https://deepmind.google/technologies/alphafold/}
@@ -1098,8 +1290,8 @@
       \endverb
     \endentry
     \entry{DPMAAnmeldung}{misc}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{abstract}{Anmeldung - Erfindung deutlich und präzise darstellen - Vollständige Offenbarung - Wichtiger Hinweis: Patentansprüche durchdacht formulieren - Unterlagen und Informationen - Unterlagen und Sprachen - Wo kann man die Patentanmeldung einreichen? - Patente elektronisch anmelden - Achtung wichtig - der Anmeldetag! - Und nicht vergessen: Gebühren pünktlich bezahlen - Ist meine Erfindung vielleicht ein Staatsgeheimnis? - Pilotprojekt Global Patent Prosecution Highway (GPPH)}
       \field{howpublished}{https://www.dpma.de/patente/anmeldung/index.html}
@@ -1112,6 +1304,114 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /Users/chrisoesterreich/Zotero/storage/AF3TPXBF/index.html
+      \endverb
+    \endentry
+    \entry{DPMAPatente}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gebühren für Patentschutz - Patentgebühren im Überblick - Zahlungsfrist und wichtige Hinweise - Wann ist die Jahresgebühr fällig? - Ein Beispiel: - PCT - internationale Phase - PCT - Gebühren für Anmeldungen mit Anmeldetag ab dem 1. April 2024 - Zahlungsfrist - Mögliche zusätzliche Gebühren im Zusammenhang mit einer PCT-Anmeldung beim DPMA - PCT - nationalen Phase - PCT-Gebühren - Einleitung der nationalen Phase beim DPMA - Hinweise - Europäisches Patent in der nationalen Phase}
+      \field{howpublished}{https://www.dpma.de/service/gebuehren/patente/index.html}
+      \field{journaltitle}{Deutsches Patent- und Markenamt}
+      \field{langid}{ngerman}
+      \field{title}{{DPMA {|} Patente}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/NM6L3Q3M/index.html
+      \endverb
+    \endentry
+    \entry{DPMAregisterRecherchierbarerText}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://register.dpma.de/DPMAregister/pat/PatRechercheSchrifteneinsicht?docId=DE102016223981A1\&page=1\&dpi=300\&lang=de}
+      \field{title}{{{DPMAregister}} {|} {{Recherchierbarer Text}} - {{DE102016223981A1}}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/9HQIKVKN/PatRechercheSchrifteneinsicht.html
+      \endverb
+    \endentry
+    \entry{DPMAregisterRecherchierbarerTexta}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://register.dpma.de/DPMAregister/pat/PatRechercheSchrifteneinsicht?docId=DE102020126756A1\&page=1\&dpi=300\&lang=de}
+      \field{title}{{{DPMAregister}} {|} {{Recherchierbarer Text}} - {{DE102020126756A1}}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/7AXIEVKK/PatRechercheSchrifteneinsicht.html
+      \endverb
+    \endentry
+    \entry{DPMAregisterRecherchierbarerTextb}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://register.dpma.de/DPMAregister/pat/PatRechercheSchrifteneinsicht?docId=EP000004228115A1\&page=1\&dpi=300\&lang=de}
+      \field{title}{{{DPMAregister}} {|} {{Recherchierbarer Text}} - {{EP000004228115A1}}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/WQQK5C3V/PatRechercheSchrifteneinsicht.html
+      \endverb
+    \endentry
+    \entry{BPatG21122021}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Redaktionelle Leitsätze: 					1. Die Angabe einer nicht-menschlichen Entität als Erfinder erfüllt nicht die Anforderung an der Erfinderbenennung.~ (Rn. GRURRS Jahr 2021 Randnummer 24) 					2. Ist ein Patentanmelder Eigentümer, Besitzer, Hersteller, Programmierer sowie Betreiber einer Maschine mit künstlicher Intelligenz und hat keine andere Person einen Beitrag zur Erfindung geliefert, spricht nichts dagegen, dass er sich als Erfinder bezeichnet.~ ~ ~ (Rn. GRURRS Jahr 2021 Randnummer 27) 					3. Hat der Anmelder im Hinblick auf die Wahrheitspflicht Bedenken, zu verschweigen, dass er eine Maschine mit künstlicher Intelligenz zur Hilfe genommen hat, kann er dies in der Beschreibung angeben.~~ (Rn. GRURRS Jahr 2021 Randnummer 29)}
+      \field{month}{12}
+      \field{number}{BPATG Aktenzeichen 18 W (pat) 28/20}
+      \field{title}{{{BPatG}}, 21.12.2021 - {{BPATG Aktenzeichen}} 18 {{W}} (Pat) 28/20}
+      \field{type}{Beschl.}
+      \field{year}{2021}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/PAXL2QE8/Dokument.html
+      \endverb
+    \endentry
+    \entry{BGH2020092009}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Jedenfalls dann, wenn das sich einer Datenverarbeitungsanlage bedienende Verfahren in den Ablauf einer technischen Einrichtung eingebettet ist (wie etwa bei der Einstellung der Bildauflösung eines Computertomografen), entscheidet über die Patentierung nicht das Ergebnis einer Gewichtung technischer und nichttechnischer Elemente. Ma{ß}gebend ist vielmehr, ob die Lehre bei der gebotenen Gesamtbetrachtung der Lösung eines über die Datenverarbeitung hinausgehenden konkreten technischen Problems dient.}
+      \field{month}{1}
+      \field{number}{X ZB 22/07}
+      \field{shorttitle}{Patentierbarkeit Eines {{Verfahrens}} Zur {{Verarbeitung}} Medizinischer {{Daten}}}
+      \field{title}{{{BGH}}, 20. 1. 2009 - {{X ZB}} 22/07 - {{Patentierbarkeit}} Eines {{Verfahrens}} Zur {{Verarbeitung}} Medizinischer {{Daten}}}
+      \field{type}{Beschl.}
+      \field{volume}{2009}
+      \field{year}{2009}
+      \field{pages}{479\bibrangedash 480}
+      \range{pages}{2}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/7JS5GJAB/Dokument.html
+      \endverb
+    \endentry
+    \entry{YourHelpfulHome}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Build a smarter home, one device at a time.}
+      \field{howpublished}{https://store.google.com/gb/category/connected\_home?hl=en-GB}
+      \field{journaltitle}{Google Store}
+      \field{langid}{british}
+      \field{title}{Your Helpful Home Starts Here.}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/chrisoesterreich/Zotero/storage/E6QYSEHF/connected_home.html
       \endverb
     \endentry
   \enddatalist
