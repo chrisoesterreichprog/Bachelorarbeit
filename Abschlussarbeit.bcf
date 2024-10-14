@@ -163,7 +163,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>none</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -625,8 +625,46 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">subentry</bcf:option>
-    <bcf:option datatype="boolean">subentrycomp</bcf:option>
+    <bcf:option datatype="boolean">acronyms</bcf:option>
+    <bcf:option datatype="boolean">shorthandinbib</bcf:option>
+    <bcf:option datatype="boolean">shorthandwidth</bcf:option>
+    <bcf:option datatype="boolean">shortjournal</bcf:option>
+    <bcf:option datatype="boolean">terselos</bcf:option>
+    <bcf:option datatype="boolean">xref</bcf:option>
+    <bcf:option datatype="boolean">pagetotal</bcf:option>
+    <bcf:option datatype="boolean">journalnumber</bcf:option>
+    <bcf:option datatype="boolean">bernhard</bcf:option>
+    <bcf:option datatype="boolean">series</bcf:option>
+    <bcf:option datatype="boolean">seriesformat</bcf:option>
+    <bcf:option datatype="boolean">annotation</bcf:option>
+    <bcf:option datatype="boolean">edbyidem</bcf:option>
+    <bcf:option datatype="boolean">editionstring</bcf:option>
+    <bcf:option datatype="boolean">edsuper</bcf:option>
+    <bcf:option datatype="boolean">idembib</bcf:option>
+    <bcf:option datatype="boolean">library</bcf:option>
+    <bcf:option datatype="boolean">nolocation</bcf:option>
+    <bcf:option datatype="boolean">nopublisher</bcf:option>
+    <bcf:option datatype="boolean">oldauthor</bcf:option>
+    <bcf:option datatype="boolean">origfields</bcf:option>
+    <bcf:option datatype="boolean">pseudoauthor</bcf:option>
+    <bcf:option datatype="boolean">origfieldsformat</bcf:option>
+    <bcf:option datatype="boolean">namefont</bcf:option>
+    <bcf:option datatype="boolean">firstnamefont</bcf:option>
+    <bcf:option datatype="boolean">idemfont</bcf:option>
+    <bcf:option datatype="boolean">ibidemfont</bcf:option>
+    <bcf:option datatype="boolean">idembibformat</bcf:option>
+    <bcf:option datatype="boolean">editorstring</bcf:option>
+    <bcf:option datatype="boolean">editorstringfont</bcf:option>
+    <bcf:option datatype="boolean">citedas</bcf:option>
+    <bcf:option datatype="boolean">edstringincitations</bcf:option>
+    <bcf:option datatype="boolean">omiteditor</bcf:option>
+    <bcf:option datatype="boolean">shorthandibid</bcf:option>
+    <bcf:option datatype="boolean">citeauthor</bcf:option>
+    <bcf:option datatype="boolean">citeauthorname</bcf:option>
+    <bcf:option datatype="boolean">firstfullname</bcf:option>
+    <bcf:option datatype="boolean">ibidpage</bcf:option>
+    <bcf:option datatype="boolean">pageref</bcf:option>
+    <bcf:option datatype="boolean">citepages</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -708,8 +746,6 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">subentry</bcf:option>
-    <bcf:option datatype="boolean">subentrycomp</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="xml">labelalphatemplate</bcf:option>
     <bcf:option datatype="xml">translit</bcf:option>
@@ -796,8 +832,12 @@
     <bcf:option datatype="boolean" backendout="1">doi</bcf:option>
     <bcf:option datatype="boolean" backendout="1">eprint</bcf:option>
     <bcf:option datatype="boolean" backendout="1">related</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">subentry</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">subentrycomp</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">acronym</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">oldbookauthor</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">oldauthor</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">pseudoauthor</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">citedas</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">shorthandibid</bcf:option>
     <bcf:option datatype="boolean" backendout="1">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer" backendin="maxcitenames,maxbibnames,maxsortnames">maxnames</bcf:option>
     <bcf:option datatype="integer" backendin="mincitenames,minbibnames,minsortnames">minnames</bcf:option>
@@ -2352,7 +2392,7 @@
     <bcf:citekey order="4">WasIstKuenstliche</bcf:citekey>
     <bcf:citekey order="5">DPMAPatentschutz</bcf:citekey>
     <bcf:citekey order="6">WasIstKuenstliche2021</bcf:citekey>
-    <bcf:citekey order="7">WhatAIBasica</bcf:citekey>
+    <bcf:citekey order="7">WhatAIBasic</bcf:citekey>
     <bcf:citekey order="8">WasIstKuenstliche2020</bcf:citekey>
     <bcf:citekey order="9">stadlerKuenstlicheIntelligenz</bcf:citekey>
     <bcf:citekey order="10">WasIstStarke2023</bcf:citekey>
@@ -2360,141 +2400,160 @@
     <bcf:citekey order="12">WasIstDeep2023</bcf:citekey>
     <bcf:citekey order="13">KuenstlicheIntelligenz</bcf:citekey>
     <bcf:citekey order="14">pramodithaOverviewNeuralNetwork2022a</bcf:citekey>
-    <bcf:citekey order="15">pramodithaOverviewNeuralNetwork2022a</bcf:citekey>
-    <bcf:citekey order="16">WasSindKonvolutionale2021</bcf:citekey>
-    <bcf:citekey order="17">WasSindRekurrente2023</bcf:citekey>
-    <bcf:citekey order="18">KuenstlicheIntelligenzKI</bcf:citekey>
-    <bcf:citekey order="19">hartmannKuenstlicheIntelligenzIm2020</bcf:citekey>
-    <bcf:citekey order="20">DPMAPatentschutz</bcf:citekey>
-    <bcf:citekey order="21">PatGNichtamtlichesInhaltsverzeichnis</bcf:citekey>
-    <bcf:citekey order="22">GewerblicherRechtschutzUnd</bcf:citekey>
-    <bcf:citekey order="23">000820Designation</bcf:citekey>
-    <bcf:citekey order="24">KIRegelnWofuerEuropaeische2020</bcf:citekey>
-    <bcf:citekey order="25">TextsAdoptedIntellectual</bcf:citekey>
-    <bcf:citekey order="26">gutaAPPLICABILITYGDPRARTIFICIAL2022</bcf:citekey>
-    <bcf:citekey order="27">surdenMachineLearningLaw</bcf:citekey>
-    <bcf:citekey order="28">dornisDornisSchopfungOhne2021</bcf:citekey>
-    <bcf:citekey order="29">zivilsenatZB222024</bcf:citekey>
-    <bcf:citekey order="30">konertzErfindungenDurchComputer2018</bcf:citekey>
-    <bcf:citekey order="31">delvauxMitEmpfehlungenKommission</bcf:citekey>
-    <bcf:citekey order="32">haedickeEinfuhrung2020</bcf:citekey>
-    <bcf:citekey order="33">BGH27031969</bcf:citekey>
-    <bcf:citekey order="34">BGH3020152015</bcf:citekey>
-    <bcf:citekey order="35">BGH2420112011</bcf:citekey>
-    <bcf:citekey order="36">haedickeEinfuhrung2020</bcf:citekey>
-    <bcf:citekey order="37">RedekerITRechtSchutz</bcf:citekey>
-    <bcf:citekey order="38">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
-    <bcf:citekey order="39">WasIstProgramm</bcf:citekey>
-    <bcf:citekey order="40">lackesDefinitionAnwendungsprogramm</bcf:citekey>
-    <bcf:citekey order="41">lackesDefinitionSystemprogramm</bcf:citekey>
-    <bcf:citekey order="42">ComputerProgrammeUnverzichtbareComputerprogramme</bcf:citekey>
-    <bcf:citekey order="43">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
-    <bcf:citekey order="44">EPThisFile</bcf:citekey>
-    <bcf:citekey order="45">ComvikAnsatz</bcf:citekey>
-    <bcf:citekey order="46">064100Zwei</bcf:citekey>
-    <bcf:citekey order="47">BGH22061976</bcf:citekey>
-    <bcf:citekey order="48">Bundesgerichtshof13051980</bcf:citekey>
-    <bcf:citekey order="49">BGH04021992</bcf:citekey>
-    <bcf:citekey order="50">BGH13121999</bcf:citekey>
-    <bcf:citekey order="51">DPMAPatentschutz</bcf:citekey>
-    <bcf:citekey order="52">melullisEPUArt522023</bcf:citekey>
-    <bcf:citekey order="53">BPatG10012012</bcf:citekey>
-    <bcf:citekey order="54">BPatG01032001</bcf:citekey>
-    <bcf:citekey order="55">EuropaischesPatentamt152006</bcf:citekey>
-    <bcf:citekey order="56">ensthalerEnsthalerBegrenzungPatentierung2013</bcf:citekey>
-    <bcf:citekey order="57">ensthalerEnsthalerBegrenzungPatentierung2013</bcf:citekey>
-    <bcf:citekey order="58">WieManPatente2021</bcf:citekey>
-    <bcf:citekey order="59">nagerlKunstlicheIntelligenzParadigmenwechsel2019</bcf:citekey>
-    <bcf:citekey order="60">asendorfPatGErfindungAuf2023</bcf:citekey>
-    <bcf:citekey order="61">DPMAregisterOriginaldokumentDE102017212328A1</bcf:citekey>
-    <bcf:citekey order="62">pauliniKIgenerierteErfindungPatentrechtliche</bcf:citekey>
-    <bcf:citekey order="63">WieManPatente2021</bcf:citekey>
-    <bcf:citekey order="64">AlphaFold2024</bcf:citekey>
-    <bcf:citekey order="65">DPMAAnmeldung</bcf:citekey>
-    <bcf:citekey order="66">DPMAPatente</bcf:citekey>
-    <bcf:citekey order="67">DPMAregisterRecherchierbarerText</bcf:citekey>
-    <bcf:citekey order="68">DPMAregisterRecherchierbarerTexta</bcf:citekey>
-    <bcf:citekey order="69">DPMAregisterRecherchierbarerTextb</bcf:citekey>
-    <bcf:citekey order="70">BPatG21122021</bcf:citekey>
-    <bcf:citekey order="71">BGH3020152015</bcf:citekey>
-    <bcf:citekey order="72">BGH2020092009</bcf:citekey>
-    <bcf:citekey order="73">YourHelpfulHome</bcf:citekey>
-    <bcf:citekey order="74">ChatGPT</bcf:citekey>
-    <bcf:citekey order="75">NumberChatGPTUsers2023</bcf:citekey>
-    <bcf:citekey order="76">WasIstKuenstliche</bcf:citekey>
-    <bcf:citekey order="77">DPMAPatentschutz</bcf:citekey>
-    <bcf:citekey order="78">WasIstKuenstliche2021</bcf:citekey>
-    <bcf:citekey order="79">WhatAIBasica</bcf:citekey>
-    <bcf:citekey order="80">WasIstKuenstliche2020</bcf:citekey>
-    <bcf:citekey order="81">stadlerKuenstlicheIntelligenz</bcf:citekey>
-    <bcf:citekey order="82">WasIstStarke2023</bcf:citekey>
-    <bcf:citekey order="83">WasIstGenerative</bcf:citekey>
-    <bcf:citekey order="84">WasIstDeep2023</bcf:citekey>
-    <bcf:citekey order="85">KuenstlicheIntelligenz</bcf:citekey>
-    <bcf:citekey order="86">pramodithaOverviewNeuralNetwork2022a</bcf:citekey>
-    <bcf:citekey order="87">WasSindKonvolutionale2021</bcf:citekey>
-    <bcf:citekey order="88">WasSindRekurrente2023</bcf:citekey>
-    <bcf:citekey order="89">KuenstlicheIntelligenzKI</bcf:citekey>
-    <bcf:citekey order="90">hartmannKuenstlicheIntelligenzIm2020</bcf:citekey>
-    <bcf:citekey order="91">PatGNichtamtlichesInhaltsverzeichnis</bcf:citekey>
-    <bcf:citekey order="92">GewerblicherRechtschutzUnd</bcf:citekey>
-    <bcf:citekey order="93">000820Designation</bcf:citekey>
-    <bcf:citekey order="94">KIRegelnWofuerEuropaeische2020</bcf:citekey>
-    <bcf:citekey order="95">TextsAdoptedIntellectual</bcf:citekey>
-    <bcf:citekey order="96">gutaAPPLICABILITYGDPRARTIFICIAL2022</bcf:citekey>
-    <bcf:citekey order="97">surdenMachineLearningLaw</bcf:citekey>
-    <bcf:citekey order="98">dornisDornisSchopfungOhne2021</bcf:citekey>
-    <bcf:citekey order="99">zivilsenatZB222024</bcf:citekey>
-    <bcf:citekey order="100">konertzErfindungenDurchComputer2018</bcf:citekey>
-    <bcf:citekey order="101">delvauxMitEmpfehlungenKommission</bcf:citekey>
-    <bcf:citekey order="102">haedickeEinfuhrung2020</bcf:citekey>
-    <bcf:citekey order="103">BGH27031969</bcf:citekey>
-    <bcf:citekey order="104">BGH3020152015</bcf:citekey>
-    <bcf:citekey order="105">BGH2420112011</bcf:citekey>
-    <bcf:citekey order="106">RedekerITRechtSchutz</bcf:citekey>
-    <bcf:citekey order="107">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
-    <bcf:citekey order="108">WasIstProgramm</bcf:citekey>
-    <bcf:citekey order="109">lackesDefinitionAnwendungsprogramm</bcf:citekey>
-    <bcf:citekey order="110">lackesDefinitionSystemprogramm</bcf:citekey>
-    <bcf:citekey order="111">ComputerProgrammeUnverzichtbareComputerprogramme</bcf:citekey>
-    <bcf:citekey order="112">EPThisFile</bcf:citekey>
-    <bcf:citekey order="113">ComvikAnsatz</bcf:citekey>
-    <bcf:citekey order="114">064100Zwei</bcf:citekey>
-    <bcf:citekey order="115">BGH22061976</bcf:citekey>
-    <bcf:citekey order="116">Bundesgerichtshof13051980</bcf:citekey>
-    <bcf:citekey order="117">BGH04021992</bcf:citekey>
-    <bcf:citekey order="118">BGH13121999</bcf:citekey>
-    <bcf:citekey order="119">melullisEPUArt522023</bcf:citekey>
-    <bcf:citekey order="120">BPatG10012012</bcf:citekey>
-    <bcf:citekey order="121">BPatG01032001</bcf:citekey>
-    <bcf:citekey order="122">EuropaischesPatentamt152006</bcf:citekey>
-    <bcf:citekey order="123">ensthalerEnsthalerBegrenzungPatentierung2013</bcf:citekey>
-    <bcf:citekey order="124">WieManPatente2021</bcf:citekey>
-    <bcf:citekey order="125">nagerlKunstlicheIntelligenzParadigmenwechsel2019</bcf:citekey>
-    <bcf:citekey order="126">asendorfPatGErfindungAuf2023</bcf:citekey>
-    <bcf:citekey order="127">DPMAregisterOriginaldokumentDE102017212328A1</bcf:citekey>
-    <bcf:citekey order="128">pauliniKIgenerierteErfindungPatentrechtliche</bcf:citekey>
-    <bcf:citekey order="129">AlphaFold2024</bcf:citekey>
-    <bcf:citekey order="130">DPMAAnmeldung</bcf:citekey>
-    <bcf:citekey order="131">DPMAPatente</bcf:citekey>
-    <bcf:citekey order="132">DPMAregisterRecherchierbarerText</bcf:citekey>
-    <bcf:citekey order="133">DPMAregisterRecherchierbarerTexta</bcf:citekey>
-    <bcf:citekey order="134">DPMAregisterRecherchierbarerTextb</bcf:citekey>
-    <bcf:citekey order="135">BPatG21122021</bcf:citekey>
-    <bcf:citekey order="136">BGH2020092009</bcf:citekey>
-    <bcf:citekey order="137">YourHelpfulHome</bcf:citekey>
+    <bcf:citekey order="15">WasSindKonvolutionale2021</bcf:citekey>
+    <bcf:citekey order="16">WasSindRekurrente2023</bcf:citekey>
+    <bcf:citekey order="17">KuenstlicheIntelligenzKI</bcf:citekey>
+    <bcf:citekey order="18">hartmannKuenstlicheIntelligenzIm2020</bcf:citekey>
+    <bcf:citekey order="19">DPMAPatentschutz</bcf:citekey>
+    <bcf:citekey order="20">GewerblicherRechtschutzUnd</bcf:citekey>
+    <bcf:citekey order="21">000820Designation</bcf:citekey>
+    <bcf:citekey order="22">KIRegelnWofuerEuropaeische2020</bcf:citekey>
+    <bcf:citekey order="23">TextsAdoptedIntellectual</bcf:citekey>
+    <bcf:citekey order="24">gutaAPPLICABILITYGDPRARTIFICIAL2022</bcf:citekey>
+    <bcf:citekey order="25">surdenMachineLearningLaw</bcf:citekey>
+    <bcf:citekey order="26">dornisDornisSchopfungOhne2021</bcf:citekey>
+    <bcf:citekey order="27">zivilsenatZB222024</bcf:citekey>
+    <bcf:citekey order="28">konertzErfindungenDurchComputer2018</bcf:citekey>
+    <bcf:citekey order="29">delvauxMitEmpfehlungenKommission</bcf:citekey>
+    <bcf:citekey order="30">haedickeEinfuhrung2020</bcf:citekey>
+    <bcf:citekey order="31">BGH27031969</bcf:citekey>
+    <bcf:citekey order="32">BGH3020152015</bcf:citekey>
+    <bcf:citekey order="33">BGH2420112011</bcf:citekey>
+    <bcf:citekey order="34">haedickeEinfuhrung2020</bcf:citekey>
+    <bcf:citekey order="35">RedekerITRechtSchutz</bcf:citekey>
+    <bcf:citekey order="36">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
+    <bcf:citekey order="37">WasIstProgramm</bcf:citekey>
+    <bcf:citekey order="38">lackesDefinitionAnwendungsprogramm</bcf:citekey>
+    <bcf:citekey order="39">lackesDefinitionSystemprogramm</bcf:citekey>
+    <bcf:citekey order="40">ComputerProgrammeUnverzichtbareComputerprogramme</bcf:citekey>
+    <bcf:citekey order="41">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
+    <bcf:citekey order="42">EPThisFile</bcf:citekey>
+    <bcf:citekey order="43">ComvikAnsatz</bcf:citekey>
+    <bcf:citekey order="44">064100Zwei</bcf:citekey>
+    <bcf:citekey order="45">BGH22061976</bcf:citekey>
+    <bcf:citekey order="46">Bundesgerichtshof13051980</bcf:citekey>
+    <bcf:citekey order="47">BGH04021992</bcf:citekey>
+    <bcf:citekey order="48">BGH13121999</bcf:citekey>
+    <bcf:citekey order="49">DPMAPatentschutz</bcf:citekey>
+    <bcf:citekey order="50">melullisEPUArt522023</bcf:citekey>
+    <bcf:citekey order="51">BPatG10012012</bcf:citekey>
+    <bcf:citekey order="52">BPatG01032001</bcf:citekey>
+    <bcf:citekey order="53">EuropaischesPatentamt152006</bcf:citekey>
+    <bcf:citekey order="54">ensthalerEnsthalerBegrenzungPatentierung2013</bcf:citekey>
+    <bcf:citekey order="55">WieManPatente2021</bcf:citekey>
+    <bcf:citekey order="56">nagerlKunstlicheIntelligenzParadigmenwechsel2019</bcf:citekey>
+    <bcf:citekey order="57">asendorfPatGErfindungAuf2023</bcf:citekey>
+    <bcf:citekey order="58">DPMAregisterOriginaldokumentDE102017212328A1</bcf:citekey>
+    <bcf:citekey order="59">pauliniKIgenerierteErfindungPatentrechtliche</bcf:citekey>
+    <bcf:citekey order="60">WieManPatente2021</bcf:citekey>
+    <bcf:citekey order="61">AlphaFold2024</bcf:citekey>
+    <bcf:citekey order="62">DPMAAnmeldung</bcf:citekey>
+    <bcf:citekey order="63">DPMAPatente</bcf:citekey>
+    <bcf:citekey order="64">DPMAregisterRecherchierbarerText</bcf:citekey>
+    <bcf:citekey order="65">DPMAregisterRecherchierbarerTexta</bcf:citekey>
+    <bcf:citekey order="66">DPMAregisterRecherchierbarerTextb</bcf:citekey>
+    <bcf:citekey order="67">BPatG21122021</bcf:citekey>
+    <bcf:citekey order="68">BGH3020152015</bcf:citekey>
+    <bcf:citekey order="69">BGH2020092009</bcf:citekey>
+    <bcf:citekey order="70">YourHelpfulHome</bcf:citekey>
+    <bcf:citekey order="71">ChatGPT</bcf:citekey>
+    <bcf:citekey order="72">NumberChatGPTUsers2023</bcf:citekey>
+    <bcf:citekey order="73">WasIstKuenstliche</bcf:citekey>
+    <bcf:citekey order="74">DPMAPatentschutz</bcf:citekey>
+    <bcf:citekey order="75">WasIstKuenstliche2021</bcf:citekey>
+    <bcf:citekey order="76">WhatAIBasic</bcf:citekey>
+    <bcf:citekey order="77">WasIstKuenstliche2020</bcf:citekey>
+    <bcf:citekey order="78">stadlerKuenstlicheIntelligenz</bcf:citekey>
+    <bcf:citekey order="79">WasIstStarke2023</bcf:citekey>
+    <bcf:citekey order="80">WasIstGenerative</bcf:citekey>
+    <bcf:citekey order="81">WasIstDeep2023</bcf:citekey>
+    <bcf:citekey order="82">KuenstlicheIntelligenz</bcf:citekey>
+    <bcf:citekey order="83">pramodithaOverviewNeuralNetwork2022a</bcf:citekey>
+    <bcf:citekey order="84">WasSindKonvolutionale2021</bcf:citekey>
+    <bcf:citekey order="85">WasSindRekurrente2023</bcf:citekey>
+    <bcf:citekey order="86">KuenstlicheIntelligenzKI</bcf:citekey>
+    <bcf:citekey order="87">hartmannKuenstlicheIntelligenzIm2020</bcf:citekey>
+    <bcf:citekey order="88">GewerblicherRechtschutzUnd</bcf:citekey>
+    <bcf:citekey order="89">000820Designation</bcf:citekey>
+    <bcf:citekey order="90">KIRegelnWofuerEuropaeische2020</bcf:citekey>
+    <bcf:citekey order="91">TextsAdoptedIntellectual</bcf:citekey>
+    <bcf:citekey order="92">gutaAPPLICABILITYGDPRARTIFICIAL2022</bcf:citekey>
+    <bcf:citekey order="93">surdenMachineLearningLaw</bcf:citekey>
+    <bcf:citekey order="94">dornisDornisSchopfungOhne2021</bcf:citekey>
+    <bcf:citekey order="95">zivilsenatZB222024</bcf:citekey>
+    <bcf:citekey order="96">konertzErfindungenDurchComputer2018</bcf:citekey>
+    <bcf:citekey order="97">delvauxMitEmpfehlungenKommission</bcf:citekey>
+    <bcf:citekey order="98">haedickeEinfuhrung2020</bcf:citekey>
+    <bcf:citekey order="99">BGH27031969</bcf:citekey>
+    <bcf:citekey order="100">BGH3020152015</bcf:citekey>
+    <bcf:citekey order="101">BGH2420112011</bcf:citekey>
+    <bcf:citekey order="102">RedekerITRechtSchutz</bcf:citekey>
+    <bcf:citekey order="103">instituteofelectricalandelectronicsengineersinc.ISO47652010</bcf:citekey>
+    <bcf:citekey order="104">WasIstProgramm</bcf:citekey>
+    <bcf:citekey order="105">lackesDefinitionAnwendungsprogramm</bcf:citekey>
+    <bcf:citekey order="106">lackesDefinitionSystemprogramm</bcf:citekey>
+    <bcf:citekey order="107">ComputerProgrammeUnverzichtbareComputerprogramme</bcf:citekey>
+    <bcf:citekey order="108">EPThisFile</bcf:citekey>
+    <bcf:citekey order="109">ComvikAnsatz</bcf:citekey>
+    <bcf:citekey order="110">064100Zwei</bcf:citekey>
+    <bcf:citekey order="111">BGH22061976</bcf:citekey>
+    <bcf:citekey order="112">Bundesgerichtshof13051980</bcf:citekey>
+    <bcf:citekey order="113">BGH04021992</bcf:citekey>
+    <bcf:citekey order="114">BGH13121999</bcf:citekey>
+    <bcf:citekey order="115">melullisEPUArt522023</bcf:citekey>
+    <bcf:citekey order="116">BPatG10012012</bcf:citekey>
+    <bcf:citekey order="117">BPatG01032001</bcf:citekey>
+    <bcf:citekey order="118">EuropaischesPatentamt152006</bcf:citekey>
+    <bcf:citekey order="119">ensthalerEnsthalerBegrenzungPatentierung2013</bcf:citekey>
+    <bcf:citekey order="120">WieManPatente2021</bcf:citekey>
+    <bcf:citekey order="121">nagerlKunstlicheIntelligenzParadigmenwechsel2019</bcf:citekey>
+    <bcf:citekey order="122">asendorfPatGErfindungAuf2023</bcf:citekey>
+    <bcf:citekey order="123">DPMAregisterOriginaldokumentDE102017212328A1</bcf:citekey>
+    <bcf:citekey order="124">pauliniKIgenerierteErfindungPatentrechtliche</bcf:citekey>
+    <bcf:citekey order="125">AlphaFold2024</bcf:citekey>
+    <bcf:citekey order="126">DPMAAnmeldung</bcf:citekey>
+    <bcf:citekey order="127">DPMAPatente</bcf:citekey>
+    <bcf:citekey order="128">DPMAregisterRecherchierbarerText</bcf:citekey>
+    <bcf:citekey order="129">DPMAregisterRecherchierbarerTexta</bcf:citekey>
+    <bcf:citekey order="130">DPMAregisterRecherchierbarerTextb</bcf:citekey>
+    <bcf:citekey order="131">BPatG21122021</bcf:citekey>
+    <bcf:citekey order="132">BGH2020092009</bcf:citekey>
+    <bcf:citekey order="133">YourHelpfulHome</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="none">
+  <bcf:sortingtemplate name="nyt">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="none/global//global/global"
+                name="nyt/global//global/global"
                 type="entry"
-                sortingtemplatename="none"
+                sortingtemplatename="nyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

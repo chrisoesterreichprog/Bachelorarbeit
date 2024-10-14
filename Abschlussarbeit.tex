@@ -4,7 +4,7 @@
 %\usepackage[a4paper , lmargin = {2.7cm} , rmargin = {2.9cm} , tmargin = {2.7cm} , bmargin = {4.6cm} ]{geometry}
 \usepackage[a4paper]{geometry}
 \usepackage[ngerman, english]{babel}
-\usepackage{bibgerm}       		% german references
+\usepackage{bibgerm}      		% german references
 \usepackage{graphicx} 				% it's recommended to use PDF images but you can use JPG or PNG as well
 \usepackage{url}   
 \usepackage{hyperref} 				% create hyperlinks
@@ -20,10 +20,17 @@
 \usepackage[T1]{fontenc}     % For proper output encoding
 \usepackage{csquotes}        		% format URLs
 \usepackage{pythonhighlight}
-% Use biblatex for footnote citations
-\usepackage[backend=biber, style=numeric, citestyle=numeric-comp, sorting=none]{biblatex}
-\addbibresource{./bib/manual.bib}
+\usepackage{datetime}
+\usepackage{filecontents}
+\usepackage{etoolbox} % Notwendig für String-Manipulatione
 
+
+
+%\usepackage{biblatex-german-legal} 
+% Use biblatex for footnote citations
+
+\usepackage[backend=biber, style=footnote-dw, autocite=footnote, sorting=nyt]{biblatex}
+\addbibresource{./bib/manual.bib}
 
 \makeglossaries
 % Own Commands
@@ -43,13 +50,131 @@
 \ofoot[]{\thepage}
 \ifoot{Thesis, TU Berlin, Fachgebiet Wirtschafts-, Unternehmens- \& Technikrecht, 2024}
 
+\defbibheading{internet}{\section*{Internetquellen}}
+\defbibfilter{internetfilter}{type=online}
+\defbibheading{other}{\section*{Literaturquellen}}
+\defbibfilter{otherfilter}{not type=online and not type=jurisdiction}
+
+
 % set path where images are stored
 \graphicspath{{./img/}}
 
+
+\interfootnotelinepenalty=99999
 \input{./misc/hyphenation} 					% use this file to set explicit hyphenations (doesn't seem to work correctly)
 \hbadness=99999
 \hfuzz=9999pt
 \input{./misc/acronyms.tex}
+\DeclareFieldFormat{pages}{#1}
+\renewcommand{\bibfootnotewrapper}[1]{#1}
+\DeclareNameAlias{author}{family-given}
+
+
+\DeclareCiteCommand{\footcite}[\mkbibfootnote]
+  {
+    \usebibmacro{prenote}
+   \printnames{labelname} % Nur Autorname anzeigen
+   \setunit{\addcomma\addspace} % Leerzeichen zwischen Autor und Titel
+   \printfield{shorttitle}  % Titel anzeigen
+   \iffieldundef{booktitle} % Bedingung: wenn keine URL vorhanden ist
+   {} % Nichts tun, wenn keine URL vorhanden ist
+   { % Falls URL vorhanden ist
+     \setunit{\addcomma\addspace} % Komma und Leerzeichen nach dem Titel
+     \printfield{booktitle} % URL anzeigen
+     \iffieldundef{year}{}{\addspace\printtext[year]{\printfield{year}}}
+     \iffieldundef{pages}{}{\addcomma\addspace\printtext[pages]{\printfield[plain]{pages}\adddot}}
+   }
+
+   \iffieldundef{journal} % Bedingung: wenn keine URL vorhanden ist
+   {} % Nichts tun, wenn keine URL vorhanden ist
+   { % Falls URL vorhanden ist
+    \setunit{\addcomma\addspace} % Komma und Leerzeichen nach dem Titel
+    \printfield{journal} % URL anzeigen
+    \iffieldundef{year}{}{\addspace\printtext[year]{\printfield{year}}}
+    \iffieldundef{pages}{}{\addcomma\addspace\printtext[pages]{\printfield[plain]{pages}\adddot}}
+    }
+
+   \iffieldundef{howpublished} % Bedingung: wenn keine URL vorhanden ist
+     {} % Nichts tun, wenn keine URL vorhanden ist
+     { % Falls URL vorhanden ist
+       {} % Komma und Leerzeichen nach dem Titel
+       \printfield{howpublished} % URL anzeigen
+       \iffieldundef{note}{}{\printtext[note]{(zuletzt abgerufen am \printfield{note} )\adddot}}}
+
+    }
+    {\usebibmacro{postnote}}
+    
+
+
+\DeclareBibliographyDriver{online}{%
+    \usebibmacro{begentry}%
+    \printnames{author}% Autor(en)
+    \newline
+    \printfield{shorttitle}% Titel
+    \newline
+    \iffieldundef{journaltitle}{}{\printtext{In: \printfield{journaltitle}\newline}}
+    \printfield{howpublished}% URL anzeigen
+    \newline
+    \printtext{(zitiert: } \printnames{labelname}, \printfield{howpublished} (zuletzt abgerufen am \printfield{note}))
+
+
+    
+    \newunit
+    \usebibmacro{finentry}}
+  
+\DeclareBibliographyDriver{article}{%
+    \usebibmacro{begentry}%
+    \printnames{author}% Autor(en)
+    \newline
+    \printfield{title}% Titel
+    \newline
+    \iffieldundef{journaltitle}{}{\printtext{In: \printfield{journaltitle}\newline}}
+    \printfield{howpublished}% URL anzeigen
+    \newline
+    \printtext{(zitiert: } \printnames{labelname}, \printfield{howpublished} (zuletzt abgerufen am \printfield{note}))
+
+
+
+    
+    \newunit
+    \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{incollection}{%
+    \usebibmacro{begentry}%
+    \printnames{author}% Autor(en)
+    \newline
+    \printfield{title}% Titel
+    \newline
+    \iffieldundef{journaltitle}{}{\printtext{In: \printfield{journaltitle}\newline}}
+    \printfield{howpublished}% URL anzeigen
+    \newline
+    \printtext{(zitiert: } \printnames{labelname}, \printfield{howpublished} (zuletzt abgerufen am \printfield{note}))
+
+
+    
+    \newunit
+    \usebibmacro{finentry}}
+  
+
+
+
+% % Custom driver for articles (in journals)
+% \DeclareBibliographyDriver{*}{%
+%   \printnames{author} % Author (Last name, First name)
+%   \newunit\newblock
+%   \printfield{title} % Title in italics
+%   \newunit\newblock
+%   \printfield{journaltitle} % Journal name
+%   \newunit\newblock
+%   \printfield{volume} % Volume number
+%   \newunit\newblock
+%   \printfield{number} % Issue number (if applicable)
+%   \newunit\newblock
+%   \printfield{pages} % Pages (e.g., pp. 123-130)
+% }
+
+% Internetquellen
+
 \begin{document}
 % ---------------------------------------------------------------
 \frontmatter
@@ -91,12 +216,14 @@
     \clearpage
     \input{./misc/appendix}
     % Comment out the traditional bibliography environment
-    % \bibliographystyle{geralpha}
     % \bibliography{./bib/manual}
     
     % Use printbibliography if you want a bibliography section at the end
-    \printbibliography
+    \printbibliography[filter=otherfilter, heading=other]
+    \printbibliography[filter=internetfilter, heading=internet]
 
+    % Abschnitt für andere Quellen
+  
     % \input{./misc/annex}
 
 \end{document}
