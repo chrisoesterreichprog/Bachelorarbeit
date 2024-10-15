@@ -7,10 +7,22 @@ wenig menschlicher Eingabe ein Patent zu erstellen,
 welches durch KI entwickelt wurde.
 Als KI dient hier die frei zugängliche KI ChatGPT in der Version
 ChatGPT-4o benutzt im September 2024.
+ChatGPT ist ein sprachgenerierendes Modell und trifft aufgrund von
+Input Vorhersagen und generiert Texte nach Wahrscheinlichkeiten mit
+zusätzlichen Technologien.
+Es werden anders als bei RNNs alle Wörter des Outputs
+gleichzeitig generiert, was eines der Grundkonzepte von 
+der Technologie derTransformer
+Modelle ist. Durch Self-Attention werden Beziehungen dem Modell 
+Zusammenhänge zwischen Wörtern gezeigt und die menchlischeSprache antrainiert.
 Die Eingabe erfolgt in natürlicher Sprache und die Ausgabe
 ist ein Patentantrag, welcher die Anforderungen des Deutschen
-Patent- und Markenamtes (DPMA) erfüllen soll. 
-Die für den Patentantrag nötigen Dokumente befinden sich im Appendix.
+Patent- und Markenamtes (DPMA) erfüllen soll.
+Auch hier ist wichtig festzuhalten, dass eine Eingabe zwingend notwendig ist,
+damit das Transformer Modell Vorhersagen für die Wörter des
+Outputs treffen kann. 
+Die für den Patentantrag nötigen Dokumente, welche
+von ChatGPT-4o erstellt wurden, befinden sich im Appendix.
 Als Branche wird hier die IOT-Branche verwendet, 
 da diese ein großes Potential für die Anwendung von KI bietet.
 Die Prüfung des Patentantrages findet im Gutachtenstil statt.
@@ -69,7 +81,8 @@ einsehbar.
 Die daraus entstandene Erfindung lautet:
 Intelligentes Energiemanagementsystem für \gls{IoT}-basierte Haushalte.
 
-Als Anmelder tritt wie in Kapitel 3 durch den BGH für die formelle 
+Als Anmelder und Erfinder tritt 
+wie in Kapitel 3 durch den BGH für die formelle 
 Patentfähigkeit festgelegt der Benutzer
 der KI in Erscheinung \ref{cha:chapter3} \ref{fig:Pat1-3}.
 \begin{figure}[htb]
@@ -111,7 +124,7 @@ bezüglich des Patents nötig.
 Als Input wird der Prompt:
 "Erstelle mir die Beschreibung der Erfindung für den Patentantrag" benutzt.
 Als Beschreibung der Erfindung \ref{beschPDF} gibt ChatGPT-4o eine Einordnung 
-in das Technische Gebiet, den Stand der Technik, die Problemlösung,
+in das technische Gebiet, den Stand der Technik, die Problemlösung,
 die technischen Merkmale , sowie Vorteile der Erfindung zurück.
 Nach der Erstellung der Beschreibung werden durch einen weiteren Input:
 "Erstelle mir die Schutzansprüche für die Anmeldung des oben genannten Patents?"
@@ -136,8 +149,8 @@ Der erste Schutzanspruch ist einer von zwei Hauptansprüchen
 und beschriebt ein System zur Optimierung des Energieverbrauchs in IoT-basierten SmartHomes.
 Das Computerprogramm, welches mittels Machine Learning
 auf den Kompenenten des SmartHomes das technische Problem
-der Energiesteuerung löst könnte Patentierbar sein.
-Ebenso könnten einzelne Bestandteile davon ebenfalls Patentierbar sein,
+der Energiesteuerung löst könnte patentierbar sein.
+Ebenso könnten einzelne Bestandteile davon ebenfalls patentierbar sein,
 wie die Unteransprüche drei und vier.
 Unteranspruch drei bezieht sich auf den Machine-Learning Algorithmus,
 welcher anhand historischer Daten Verhaltensmuster erkennt \ref{lst:schutz3}. 
@@ -239,12 +252,22 @@ Die Erfindung ist deutlich und vollständig offenbart,
 so dass eine Fachfrau
 oder ein Fachmann sie ausführen kann (§ 34 Abs. 4 PatG) und die
 Anmeldung enthält nur eine einzige zusammenhängende Erfindung(§ 34 Abs. 5 PatG). 
-
+\\
+Die Erfindungsbeschreibung genügt, dass ein Fachmann das System, sowie 
+das Verfahren nachbauen kann, insbesondere durch die Angabe des Codes
+ist es möglich mit wenig Anpassungen das System(Hauptanspruch 1) oder
+das Verfahren(Hauptanspruch 2) nachzubauen.Das der Code noch auf die speziellen
+Geräte angepasst werden muss, steht der deutlichen und vollständigen
+Offenbarung nicht entgegen. Es wird ein grundlegendes
+Verständnis von Machine Learning und Energiemanagement vorausgesetzt,
+welches ein Fachmann im Bereich IOT besitzt. Die Erfindung ist klar und
+und vollständig definiert.
+\\
 Somit genügt die Anmeldung den Anforderungen der §§ 34, 37 und 38 PatG.
 \subsubsection{Gerügte Mängel}
 Gerügte Mängel liegen keine vor (§ 45 Abs. 1 PatG)
 \subsection{Materielle Vorrausetzungen}
-Der Gegenstand der Anmeldung müsste nach §§ 1 – 5 PatG) patentfähig sein. (§ 49 Abs. 1 PatG)
+Der Gegenstand der Anmeldung müsste nach §§ 1 – 5 PatG patentfähig sein. (§ 49 Abs. 1 PatG)
 
 \subsubsection{Technizität}
 Bei dem Gegenstand der Anmeldung müsste es sich um eine Erfindung auf einem Gebiet der Technik
@@ -297,8 +320,16 @@ Anmelders oder seines Rechtsvorgängers (§ 3 Abs. 5 Nr. 1 PatG). […]
 
 Entgegen der Neuheit des Patentanspruches steht die Patentanmeldung 60 2022 005 048.0.
 Nach Prüfung der angewandten Methoden unterscheiden diese sich jedoch deutlich und eine Ähnlichkeit
-ist nicht gegeben.
-Die Erfindung ist neu.
+ist nicht gegeben. Obwohl die Benutzung von Machine Learning und Energiemanagement
+in dem Bereich IOT nicht neu ist, wurden noch keine Patente dafür ausgestellt.
+Jedoch ist die Erfindung in ähnlicher Form schon stand der Technik.
+In einem Paper von \footcite{energymanagement} wird ein System    
+beschrieben, welches Machine Learning Algorithmen benutzt um den Energieverbrauch
+in Haushalten zu optimieren. Zudem wird auf Literatur verwiesen, 
+welche sich ebenfalls eingehend mit dem Thema befasst.
+Die Erfindung ist nicht neu. 
+
+Der Patentantrag wird hilfsgutachterlich weiter geprüft.
 
 
 

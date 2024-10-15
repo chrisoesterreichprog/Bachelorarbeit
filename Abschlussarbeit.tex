@@ -30,8 +30,8 @@
 % Use biblatex for footnote citations
 
 \usepackage[backend=biber, style=footnote-dw, autocite=footnote, sorting=nyt]{biblatex}
-\addbibresource{./bib/manual.bib}
 
+\addbibresource{./bib/manual.bib}
 \makeglossaries
 % Own Commands
 \newcommand{\usection}[1]{\section*{#1}
@@ -42,6 +42,8 @@
 
 \newcommand{\usubsubsection}[1]{\subsubsection*{#1}
 \addcontentsline{toc}{subsubsection}{\protect\numberline{}#1}}
+
+
 
 % header and footer line - no header & footer line on pages where a new chapter starts
 \clearpairofpagestyles
@@ -54,8 +56,6 @@
 \defbibfilter{internetfilter}{type=online}
 \defbibheading{other}{\section*{Literaturquellen}}
 \defbibfilter{otherfilter}{not type=online and not type=jurisdiction}
-
-
 % set path where images are stored
 \graphicspath{{./img/}}
 
@@ -129,9 +129,12 @@
     \printfield{title}% Titel
     \newline
     \iffieldundef{journaltitle}{}{\printtext{In: \printfield{journaltitle}\newline}}
-    \printfield{howpublished}% URL anzeigen
+    \printfield{year}
+    \addcomma
+    \printtext{ S. }
+    \printfield{pages}
     \newline
-    \printtext{(zitiert: } \printnames{labelname}, \printfield{howpublished} (zuletzt abgerufen am \printfield{note}))
+    \printtext{(zitiert: } \printnames{labelname}, \printfield{booktitle} \printfield{pages})
 
 
 
@@ -146,12 +149,12 @@
     \printfield{title}% Titel
     \newline
     \iffieldundef{journaltitle}{}{\printtext{In: \printfield{journaltitle}\newline}}
-    \printfield{howpublished}% URL anzeigen
+    \printfield{year}
+    \addcomma
+    \printtext{ S. }
+    \printfield{pages}
     \newline
-    \printtext{(zitiert: } \printnames{labelname}, \printfield{howpublished} (zuletzt abgerufen am \printfield{note}))
-
-
-    
+    \printtext{(zitiert: } \printnames{labelname}, \printfield{booktitle} \printfield{pages})
     \newunit
     \usebibmacro{finentry}}
   

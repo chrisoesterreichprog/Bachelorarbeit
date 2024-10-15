@@ -2,18 +2,23 @@
 
 \section{Künstliche Intelligenz\label{sec:bb}}
 
-Der Begriff künstliche Intelligenz entstand 1956 bei einer 
-Konferenz in New Hampshire. Für die Simulierung von Aspekten des 
+Der Begriff künstliche Intelligenz geht auf das Jahr 1956 zurück
+und wurde bei einer 
+Konferenz in New Hampshire erstmals in der Fachliteratur benutzt. 
+Für die Simulierung von Aspekten des 
 Lernens, sowie anderer Merkmale der menschlichen Intelligenz von 
 Maschinen schlägt der Wissenschaftler John McCarthy den Begriff 
-„Künstliche Intelligenz“ vor. 
-\footcite{WasIstKuenstliche2021} \footcite{WhatAIBasic}
+„Künstliche Intelligenz“ vor\footcite{WhatAIBasic}. 
+
 
 \textit{''Künstliche Intelligenz ist die Fähigkeit einer Maschine, 
 menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und 
-Kreativität zu imitieren''} \\ \footcite{WasIstKuenstliche2020}
+Kreativität zu imitieren''} \footcite{WasIstKuenstliche2020}\\
 ist die heutige Defintion für Künstliche Intelligenz vom Europäischen Parlament 
-und deckt sich fast vollständig mit der damaligen Begriffserklärung.
+und deckt sich fast vollständig mit der damaligen Begriffserklärung. Dennoch
+bleibt zu sagen, dass es keine einheitliche Definition für den 
+Begriff Künstliche Intelligenz gibt und dieser je nach Kontext
+unterschiedlich interpretiert werden kann\footcite{WasIstKuenstliche20}.
 
 \subsection{KI-Typen}
 KI lässt sich heutzutage in vier KI-Typen unterteilen, 
@@ -40,11 +45,11 @@ Typ 4 KIs haben eine Selbstwahrnehmung und wissen selber, dass sie denken.
 
 Schwache KIs werden für bestimmte Aufgaben eingesetzt und 
 können diese meist optimal ausführen. 
-Dafür sind sie jedoch auf menchliche Hilfe angewiesen, 
+Dafür sind sie jedoch auf menschliche Hilfe angewiesen, 
 indem Trainingsdaten bereitgestellt und 
 Parameter von Lernalgorithmen angepasst werden.
 
-Starke KIs benötigen keine menchliche Eingabe, 
+Starke KIs benötigen keine menschliche Eingabe, 
 sondern entwickeln sich dadurch nur schneller. 
 Sie simulieren keine menschliche Intelligenz, 
 sondern entwickeln eigene Intelligenz mit der Zeit. 
@@ -66,7 +71,8 @@ Generative KIs
 stützen sich auf Deep Learning-Modelle , 
 und werden auf großen Datensätzen trainiert, um neue Inhalte zu generieren.  
 Sie unterscheiden sich von diskriminativen KI-Modellen, 
-die lediglich Daten sortieren und für diese Arbeit deshalb irrelevant sind. 
+die lediglich Daten sortieren und für diese Arbeit aufgrund fehlender
+Erschaffungsfähigkeit irrelevant sind. 
 Die bekanntesten generativen KI-Anwendungen der letzten Jahre sind
 ChatGPT und DALL-E von OpenAI, GitHub CoPilot, Bing Chat von Microsoft, 
 Bard von Google, Midjourney, Stable Diffusion und Adobe Firefly \footcite{WasIstGenerative}.
@@ -103,7 +109,7 @@ wird eine Vorhersage eingegrenzt oder optimiert
 und Gewichtungen angepasst. 
 Das Z in \ref{fig:NN} steht für die lineare Funktion, 
 welche diese Vorhersage für die nächste Schicht berechnet.
-Dieser Prozess wird als 
+Dieser Prozess des Berechnens wird als 
 Vorwärtspropagierung bezeichnet. 
 Entgegen dazu gibt es die Rückwärtspropagierung 
 in der Fehler in den Vorhersagen ermittelt werden 
@@ -111,7 +117,8 @@ und implizit rückwärts durch die Schichten
 Gewichtungen über eine Loss Function, 
 welche die Vorhersagen mit den echten Werten vergleicht, 
 angepasst werden. 
-Zusammen können Vorhersagen getroffen und Fehler korrigiert werden.
+Durch Vorwärts- und Rückwärtspropagierung zusammen 
+können Vorhersagen getroffen und Fehler korrigiert werden.
 \begin{figure}[htb]
     \centering
     \includegraphics[width=\textwidth]{img/NeuralNetwork.pdf}\\
@@ -172,6 +179,21 @@ um die Anforderungen an ein Patent zu erfüllen und bieten
 derzeit noch zu wenig technische Spezifikationen 
 um eine Patentierung zu gewährleisten 
 \footcite{hartmannKuenstlicheIntelligenzIm2020}.
+Außerdem benötigen auch genetische Algorithmen einen Input
+und sind auf die Lösung eines konkreten Problems
+ausgelegt. Das Problem wird mit unterschiedlichen
+Lösungen gelöst und dann werden die Lösungen bewertet und
+die evolutionäre Prozesse beginnen, durch Selektierung, 
+Mutation und Rekombination. Diese führen zu weiteren Lösungen,
+welche ebenfalls bewertet werden und zu einer nächsten Evolutionsschicht führen.
+Eine sog. Fitness-Funktion übernimmt dabei die Bewertung, wie gut das 
+Problem durch die einzelnen Lösungen gelöst wurde.
 
+\subsubsection{Zusammenfassung}
+Da nun die Grundkonzepte für generative KI definiert sind, ist festzuhalten,
+dass die derzeitige KI Input braucht und teilweise auch noch Betreuung während 
+des Trainings um Output zu generieren. Es ist derzeit nicht möglich, 
+das eine KI ohne eine genaue Problemstellung eine Lösung entwickelt und somit
+eigenständig Erfindungen generiert. 
 \newpage
 
