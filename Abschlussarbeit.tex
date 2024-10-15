@@ -1,5 +1,6 @@
 \documentclass[oneside,cleardoublepage=empty,bibtotoc,liststotoc,BCOR=5mm,DIV=12]{scrbook}
 
+
 % use this declaration to set specific page margins
 %\usepackage[a4paper , lmargin = {2.7cm} , rmargin = {2.9cm} , tmargin = {2.7cm} , bmargin = {4.6cm} ]{geometry}
 \usepackage[a4paper]{geometry}
@@ -15,6 +16,7 @@
 \usepackage{todonotes}
 \usepackage{scrhack}
 \usepackage{pdfpages}
+\usepackage{float}
 \usepackage[acronym,nomain]{glossaries}
 \usepackage[utf8]{inputenc}  % For UTF-8 input encoding
 \usepackage[T1]{fontenc}     % For proper output encoding
@@ -31,6 +33,8 @@
 
 \usepackage[backend=biber, style=footnote-dw, autocite=footnote, sorting=nyt]{biblatex}
 
+
+
 \addbibresource{./bib/manual.bib}
 \makeglossaries
 % Own Commands
@@ -42,6 +46,7 @@
 
 \newcommand{\usubsubsection}[1]{\subsubsection*{#1}
 \addcontentsline{toc}{subsubsection}{\protect\numberline{}#1}}
+
 
 
 
@@ -179,6 +184,8 @@
 % Internetquellen
 
 \begin{document}
+\nocite{*}
+
 % ---------------------------------------------------------------
 \frontmatter
     \include{./misc/titlepage}
